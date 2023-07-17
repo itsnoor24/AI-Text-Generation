@@ -1,0 +1,687 @@
+name,developer,short_description,stars,verified_creator,categories
+github td,adamdilek,  automate td,3.0,False,code review;api management
+openapi review,blake-mealey,review openapi spec diffs and docs in your prs,1.0,False,api management;code review
+graphql diff,agu-z,a neat summary of the changes you made to your graphql schema,0.0,False,api management;code review
+go-apidiff,joelanford,test api compatibility of changes in your go library,11.0,False,api management;code review
+swift-api-assign-reviewer,marcoeidinger,auto assign reviewer or assignee to pull request when open public apis were changed in swift files,0.0,False,code review;api management
+var.js,mutterpedro,var  various automated reviews  is a deadly simple task runner based on npm scripts,4.0,False,code review;container ci
+vro diff check,lrivallain,github action using vro package diff python package to compare two vmware vrealize orchestrator packages,0.0,False,container ci;code review
+branch guard,cirrus-actions,guards branches from merges when,4.0,False,container ci;code review
+lint k8s manifest files,azure,lint k8s manifest files,16.0,True,container ci;code review
+validate fastlane supply metadata,ashutoshgngwr,github action to statically validate fastlane supply metadata for android against the play store listing constraints,9.0,False,mobile;code review
+xamltranslationvalidator,thepbone,track localization progress  detect missing strings and generate summaries for xaml resource dictionaries,0.0,False,localization;code review
+check pr for word,jj,checks that the body or the added code contains a word,7.0,False,code review;project management
+pivotal-lint,cleartax,add pivotal story details to pull requests,11.0,False,project management;code review
+review request action,kunihiko-t,send review requests to users   teams,2.0,False,code review;project management
+action-newrelic-segment-lint,budougumi0617,  verify new function generates a segment for newrelic with reviewdog on pull requests to improve code review experience,2.0,False,code review;monitoring
+autoassignreviewerteam,nikosmoum,run script that auto assigns a team as a pr reviewer,3.0,False,project management;code review
+set pr labels based on pr title,tdak1509,set pr label based on pr title s pattern,0.0,False,code review;project management
+"create pr to other branches, on commits to a branch",gorillio,commits  pushes a new pr branch and creates pr for the commits,6.0,False,code review;project management
+add an issue link,tkt-actions,use to add an issue link related to your pull requests,4.0,False,project management;code review
+jira issue details in pr,alvisetrevisan,add jira issue details to your github pull request,0.0,False,project management;code review
+label requires reviews,travelperk,this github action will require a minimum number of reviews if a label is present,6.0,False,code review;project management
+clubhouse pr,farmersdog,update github pr with clubhouse information,2.0,False,project management;code review
+author to codeowners,dmikov,last authors written to codeowners,0.0,False,code review;project management
+jira properties labeler on pull request,xserrat,label a pull request using jira issue properties,2.0,False,code review;project management
+check email domain,higebu,check commit author s email domain,1.0,False,project management;code review
+pull request stats,flowwer-dev,github action to print relevant stats about pull request reviewers,39.0,False,project management;code review
+pr labeler based on multiple rules,srvaroa,label pull requests based on configurable rules,26.0,False,code review;project management
+auto-merge pull request,reitermarkus,automatically merge pull requests once they are approved and required status checks are passing ,13.0,False,project management;code review
+github and asana pull request task integration.,keitap,when a reviewer is assigned on github  creates a review subtask on an asana task specified in a pull request description,0.0,False,code review;project management
+concat a message on pull-request body,chiaretto,a github action to concat a message to  pull request original body,2.0,False,code review;project management
+pr gatekeeper,octodemo,an action to perform the required checks for complex pull request approval cases,1.0,False,code review;project management
+list artifacts of a pull-request,chiaretto,a github action list artifacts gerenated on a pull request,1.0,False,project management;code review
+jira ticket assigner,smasala,automatically adds jira tickets by scanning the branch name and adding them as a comment to the pr,1.0,False,project management;code review
+just create a pull request,thomaseizinger,does what it says on the tin  create a pull request  easy and simple,10.0,False,code review;project management
+assign a milestone to pull requests,zoispag,assign a milestone to pull requests,0.0,False,code review;project management
+github / asana integration,kinnersleym,adds a pr link to an asana ticket and vice versa,2.0,False,project management;code review
+verify linked issue,hattan,a github action that verifies a pull request contains a reference to an issue,5.0,False,code review;project management
+add new pull request to project board,adityagovardhan,add a pull request to the first project on the repo,1.0,False,project management;code review
+ready for review,jinmayamashita,an action for automatically label swapping for draft pull requests,6.0,False,project management;code review
+pr merge bot,squalrus,merge pull requests when certain conditions are met,42.0,False,monitoring;code review
+working label,alberthernandez,add labels depending if the pull request is ready to review,1.0,False,code review;project management
+label pr on merge bot,abhijithvijayan,label pull requests with custom label on merge,2.0,False,monitoring;code review
+pr label assistant,fountainhead,provide guidance on what labels can should be applied to pull requests,0.0,False,code review;project management
+jira-lint,cleartax,add jira issue details to your github pull request,33.0,False,code review;project management
+amtoolcm github actions,peimanja,runs prometheus alertmanager amtool check config subcommmand via github actions,3.0,False,code review;monitoring
+pr label by files changed,tdak1509,add pr label based on number of files changed,0.0,False,code review;monitoring
+pull request milestone,iyu,add milestone to prs,5.0,False,project management;code review
+merge pal,maxkomarychev,automatically merge pr once it is ready,26.0,False,code review;project management
+dupicate-line remover action,maharishi1,removing the duplicate line in the given folder and uploads them to arifacts,2.0,False,monitoring;code review
+pr label by files,decathlon,label a pull request based on pushed files,63.0,False,project management;code review
+changelog tool,rcmachado,manipulate changelog files that follows keepachangelog com format,1.0,False,publishing;code review
+tweet for code review,obasekietinosa,automatically tweets prs  commits or repos asking for code reviews,1.0,False,code review;publishing
+assign size label,pascalgn,assign labels based on pull request change sizes,34.0,False,code review;support
+selene-linter,ntbbloodbath,github action to run selene  a blazing fast modern lua linter written in rust,0.0,False,code review;utilities
+autocheck javascript tests by testomatio,testomatio,check new or removed tests on each pull requests  list all tests before running them,10.0,False,testing;code review
+assign reviewers by day,masakinpo,add reviewers to pull requests for each day of the week,1.0,False,code review;support
+issue / pull request body regex validator,fabiankoestring,this action checks issue and pr descriptions against an regular expression,10.0,False,code review;utilities
+pr branch labeler,ffittschen,automatically label your prs based on their branches,10.0,False,code review;utilities
+check feedback,augustjon,check that the feedback lives up to certain requirements,0.0,False,code review;support
+validate homey app,aivus,validate homey application against publish level,3.0,False,code review;testing
+json-syntax-check,limitusus,simply check json syntax,2.0,False,code review;testing
+test remove labels,devlinjunker,remove labels to an issue or a pull request,0.0,False,testing;code review
+audit live site,daniellop1,run lighthouse ci on actions,1.0,False,testing;code review
+jest coverage diff,anuraag016,a github action to comment jest coverage diff on a pr,17.0,False,testing;code review
+qr code commenter,kentaro-m,a github action that posts a qr code to a pull request comment,2.0,False,code review;utilities
+automatic whitespace linter,hexrabbit,an easy to use command to help developer eliminate trailing whitespace on the fly,2.0,False,utilities;code review
+wip blocker,paranoidbeing,blocks prs that are wip,3.0,False,code review;utilities
+branch name,alberthernandez,write a comment in the pr if your branch is not following a predefined pattern,4.0,False,code review;utilities
+file changes action,trilom,creates outputs variables of files modified  added  or removed by a pr or push,84.0,False,code review;utilities
+unity meta files check,dena,check missing dangling meta files,37.0,False,testing;code review
+pr size watcher,ookami-kb,checks pr size  adds comment and or fails build if pr is too big,5.0,False,utilities;code review
+add pr comment,mshick,add a comment to a pull request,37.0,False,code review;utilities
+check args are present tense,nickssmith,checks all python argparse args are present tense,0.0,False,code review;utilities
+validate yaml schema,jkarwatka,a github action for checking if yaml files comply with specified schema,1.0,False,utilities;code review
+dms-textlint-action,rdohms,proofread any text with textlint  loading any required rulesets on the fly,4.0,False,code review;utilities
+barcelona action,code-name-barcelona,collect logged metadata and store it in barcelona,0.0,False,utilities;code review
+pr label check and comment,yashhy,checks for required pr label  adds comment and fails pr checks if none of the required labels are provided,6.0,False,code review;utilities
+reviewer lottery,uesteibar,automatically assign reviewers to pull requests,15.0,False,code review;utilities
+auto assign owner,danielswensson,automatically assigns owner on pr,3.0,False,utilities;code review
+jira ticket transitioner,aharooms,this action can update jira issue status by event,5.0,False,code review;utilities
+changelog validate,zattoo,detects changes and validates a given changelog,4.0,False,testing;code review
+close all pull requests,crondaemon,a github action to automatically close all pull requests,2.0,False,code review;utilities
+eslint-remote-tester pr comparator,ariperkkio,run eslint remote tester in comparison mode for pull requests,0.0,False,code review;testing
+xcaudit,alexander-ignition,xcode logs formatter for github actions,4.0,False,code review;testing
+blinka-reporting,davidwessman,report test results to blinka,0.0,False,testing;code review
+coverage report for lcov format,nohmad,comments a pull request with code coverage,1.0,False,code review;testing
+jira ticket transitioner action,tuanddd,this action can update jira issue status by event,1.0,False,code review;utilities
+npm unused packages checker,amr-reda,check all dependencies are used in the code,4.0,False,code review;utilities
+pmd analyzer action,rtjl,annotates violations from pmd analyzer,0.0,False,code review;testing
+update pr body,asasinnab,update pr body because pr comments are annoying   ,0.0,False,utilities;code review
+lint ren'py project,projectalicedev,lint your project against a specified ren py sdk version,10.0,False,testing;code review
+kustomize validate,bigwheel,validate kustomize yaml files by  kustomize build  command,1.0,False,code review;testing
+ensure clean jupyter notebooks,researchsoftwareactions,enforce rules on certain cells and metadata in jupyter notebooks,19.0,False,code review;utilities
+dwp/aws-terraform-tag-check,dwp,checks given tags are applied to taggable resources,0.0,False,code review;testing
+asyncapi-github-action,waleedashraf,github action for asyncapi schema validation,6.0,False,code review;testing
+team labeler action,julienkode,add a team label based on the author s team,16.0,False,code review;utilities
+ea tester,fx31337,runs mql program,6.0,False,testing;code review
+validate json,orrosenblatt,github action  validate json,40.0,False,utilities;code review
+approve pull request,juliangruber,a github action for approving pull requests,11.0,False,code review;utilities
+elastic-ingest-test,pdreker,tests elasticsearch ingest pipelines against given testcases,0.0,False,testing;code review
+regex tester linker,wyozi,find regexps from changed files in pull requests and link to tester,0.0,False,code review;testing
+auto-create-pr-action,smartinspereira,auto create a pull request when a new branch is  pushed ,17.0,False,code review;utilities
+auto sync reviewers with assignees,rubeus90,synchronize the list of reviewers with the list of assignees on a pr,0.0,False,code review;utilities
+add automatic pull request reviewers,buzato,adds reviewer s  to a pull request,0.0,False,code review;utilities
+hadenlabs-action-pre-commit,hadenlabs,run pre commit and optionally commit back to the pull request,0.0,False,code review;utilities
+add reviewers,madrapps,add reviewers to your pull request,4.0,False,code review;utilities
+tfsuit,josdagaro,terraform customizable tool for defining your standards  styles  and naming conventions,5.0,False,utilities;code review
+pull request sizer,coverwallet,label a pr based on the amount of changes excluding from the counting some customed files,0.0,False,code review;utilities
+simplelabeler,rihurla,automatically applies labels for the pull request states,0.0,False,utilities;code review
+commitsar action,aevea,check commit message compliance with conventional commits,93.0,False,code review;utilities
+auto approve,hmarr,automatically approve pull requests,208.0,False,code review;utilities
+require pull request approvals,manuelmeister,use this instead of the branch protection rules,0.0,False,code review;utilities
+helmchart image validator,estherk0,validate image value in helm chart to override correctly or not  work with decapod base yaml,0.0,False,code review;utilities
+hasura change summary,fieldguide,generate readable hasura metadata change summaries,7.0,False,code review;utilities
+merge or pr,siematypie,merges branch to target branch or creates new branch and follow up pr for conflict resolving,2.0,False,utilities;code review
+commit watch,tophat,lint commit messages using commit watch,0.0,False,utilities;code review
+publish on imgur,devicons,upload image s  to imgur using their api,5.0,False,code review;utilities
+prs size labeler,friendsofgo,sample github action to label a pr based on the amount of changes written in go,0.0,False,code review;utilities
+kustomize github action,karancode,github action for kustomize   manily to perform kustomize build for the k8s config yamls,22.0,False,code review;utilities
+validate json with glob,nhalstead,github action  validate json,5.0,False,utilities;code review
+action-screenshot-diff,ianatha,visual snapshot tester for github actions,1.0,False,code review;utilities
+ti-community-rebase,hi-rustin,github action to automatically rebase prs,0.0,False,code review;utilities
+pull request name enforcer,derkinderfietsen,github action for enforcing regex matching name on pr,0.0,False,utilities;code review
+yaml schema validator,nwisbeta,validate yaml files in a repo according to settings,5.0,False,utilities;code review
+pull request size labeler,codelytv,label a pr based on the amount of changes,148.0,False,code review;utilities
+softfix-pr,dekvall,helps squashing commits in prs,4.0,False,code review;utilities
+automatic revert,srt32,automatically revert a commit on   revert  comment,88.0,False,utilities;code review
+automatic rebase,cirrus-actions,automatically rebases pr on   rebase  comment,501.0,False,code review;utilities
+pr helper,matticusau,powerful pull request automation   auto labels  comment   review automation  rule based auto merge,8.0,False,utilities;code review
+pull request reviews reminder action,davideviolante,automatically send notification for pull requests waiting for reviewers,10.0,False,code review;utilities
+pr-sweeper,aidasoft,cheery picks merged prs to selected branches,1.0,False,utilities;code review
+orthograph-err,place-labs,automated docs reviewer  robotic grammar enthusiast,5.0,False,code review;utilities
+cfn-nag-action,minchao,github action for cfn nag,1.0,False,code review;security
+get-pr-commits,tim-actions,a github action that get commits in current pull request,0.0,False,code review;utilities
+run tfsec pr commenter,tfsec,runs tfsec and adds comments to the pr where checks have failed,9.0,True,security;code review
+brakeman code scanning,standardnotes,a github action to run brakeman  a static analysis security vulnerability scanner for ruby on rails applications,0.0,False,security;code review
+powermode-scan,ncino,run static code pattern analysis scan for apex security using pmd,1.0,False,code review;security
+cfn_nag_action,brunomoutinho,github action for cfn nag,0.0,False,code review;security
+easy detect-secrets,robertfischer,use yelp s detect secrets package to scan your repository for exposed secrets,3.0,False,security;code review
+sign off on new commits,artis3n,require all commits to be approved in your pr without wiping past approvals,2.0,False,code review;security
+cloudformation-guard-action,digarok,run cfn guard compliance tool against your repository,4.0,False,security;code review
+nodejsscan,ajinabraham,njsscan finds insecure code patterns in your node js applications,8.0,False,code review;security
+python-bandit with code annotations,ioggstream,github action to find common security issues in python code and get its report as a artifact,3.0,False,security;code review
+py3-bandit,libertyy,run bandit  latest  on py3,4.0,False,security;code review
+gittyleaks,gupy-io,action to gittyleaks tool prevent to secrets on your repo before merge,0.0,False,code review;security
+markdown-safe-link-action,markbattistella,check if the links pass google safe web,1.0,False,security;code review
+sast-action,ivankuchin,github action examines c c   source code and reports possible security weaknesses   flaws   sorted by risk level,0.0,False,security;code review
+horusec,fike,run horusec sast in your code,8.0,False,security;code review
+run detect-secrets with reviewdog,reviewdog,  run detect secrets with reviewdog on pull requests to improve code review experience,5.0,False,security;code review
+slither-static-analysis,luisfontes19,run slither static analyser for solidity smart contracts,4.0,False,code review;security
+organization workflow action,svanboxel,action to register organization workflow,41.0,False,code review;security
+synopsys polaris sast check,loadbalancerorg,polaris sast runner,1.0,False,security;code review
+check critical files,codelytv,check for critical files in your commits and warns you,18.0,False,security;code review
+brakeman action,artplan1,github action to run brakeman static analysis which checks ruby on rails applications for security vulnerabilities,1.0,False,security;code review
+golang-security-action,ynniss,run gosec and scan your golang code  on specific events like push or pull request,6.0,False,security;code review
+codeguru reviewer,aws-actions,aws codeguru reviewer action,13.0,True,code review;security
+kiuwan delivery analysis,lsacera,run kiuwan delivery analysis on the selected set of code,1.0,False,security;code review
+sast-scan,appthreat,sast scan is a free and open source static analysis security testing  sast  tool for a range of languages,4.0,False,security;code review
+terraform security scan,triat,scan your terraform code with tfsec,79.0,False,security;code review
+gitguardian shield action,gitguardian,scan commits for secrets and other issues,253.0,False,security;code review
+swift api diff,ltetzlaff,comment changes in public interfaces on github pull requests,6.0,False,code review;dependency management
+add an attention label to an open pull request,crazymanish,add need review attention label to an open pull request after 4 days,0.0,False,code review;dependency management
+monorepo pr repo labeler,adamzolyak,monorepo pr repo labeler,59.0,False,code review;dependency management
+highlight new npm dependencies,hiwelo,add a message in pull request with basic information when new dependencies are added,10.0,False,code review;dependency management
+pull request comment trigger,khan,look for a  trigger word  in a pull request description or comment  so that later steps can know whether or not to run,96.0,False,code review;deployment
+pr comment from file,machine-learning-apps,leaves a comment on an open pr based on the contents of a file,18.0,False,code review;deployment
+pull request dependency checkout,sreimers,this action checks if there is a pull request in the repo with the same title,0.0,False,dependency management;code review
+loxcan,siketyan,universal lock file scanner for git,23.0,False,dependency management;code review
+yarn lock changes,simek,creates a comment inside pull request with the human readable summary of the changes to the  yarn lock  file,86.0,False,dependency management;code review
+microsoft teams deploy card,toko-bifrost,notify your teams channel with a beautiful  comprehensive deployment card,41.0,False,code review;deployment
+bundler leak action,andrewmcodes,github action for running bundler leak,0.0,False,code review;dependency management
+heroku review app deployment status,niteoweb,a github action to test the deployment status of a heroku review app,12.0,False,code review;deployment
+approved-event,taichi,export approved state to environment variables,9.0,False,code review;deployment
+php-ga.composer-require-checker,php-ga,composer require checker,2.0,False,code review;dependency management
+shopify theme actions,matthew-petrie,a set of github actions to enable fast shopify theme development workflows,10.0,False,deployment;code review
+post kubernetes loadbalancer,smartsquaregmbh,this action can be used to post the address of a kubernetes loadbalancer on a pull request,0.0,False,deployment;code review
+append github pr description,chabroa,append the provided deployment url to github pull request description,0.0,False,code review;deployment
+aws s3 preview deployment,barecheck,github action generates code coverage reports,0.0,False,deployment;code review
+pr sentry id lint,ajai-sandy,github action for automatically adding sentry id on pull requests title,0.0,False,code review;deployment
+github action for danger-swift + swiftlint,417-72ki,runs danger swift with swiftlint,4.0,False,mobile ci;code review
+pr changelog generator,bala-raj,github action that creates a changelog on opening or updating the pr,1.0,False,code review;reporting
+assign pr author as assignee,itsoliverbott,github action for auto assigning author of pr as the assignee,1.0,False,code review
+check page title & description,delsinvg,this is an action to check if the page has a title or description,0.0,False,code review
+check hreflang tag,delsinvg,this action checks whether a multilingual website has a hreflang tag,0.0,False,code review
+check robots.txt,delsinvg,this action checks whether the website has a robots txt,0.0,False,code review
+run misspell with reviewdog,reviewdog,  run misspell with reviewdog on pull requests to improve code review experience,38.0,False,code review;code quality
+reviews count,github-actions-tools,get pull request reviews count by state kind,0.0,False,code review;continuous integration
+flake8 with annotations,truebrain,flake8 with annotations for pull request,14.0,False,code review;code quality
+contextual qa checklists,wyozi,submit a comment to prs with a qa checklist based on context,11.0,False,code review;code quality
+run staticcheck with reviewdog,reviewdog,  run staticcheck with reviewdog on pull requests to improve code review experience,10.0,False,code review;code quality
+barecheck - code coverage,barecheck,github action generates code coverage reports,9.0,False,code quality;code review
+luacheck for fivem,goatg33k,runs luacheck on a project with fivem natives,9.0,False,code quality;code review
+verify changed files,tj-actions,find files that were modified during workflow execution,11.0,False,code search;code review
+clang-format check,jidicula,use clang format to see if your c c   code is formatted according to project guidelines,13.0,False,code quality;code review
+run ansible-lint with reviewdog,reviewdog,  run ansible lint with reviewdog on pull requests to improve code review experience,4.0,False,code review;code quality
+run pyright,jakebailey,run pyright,4.0,False,code quality;code review
+report lcov,zgosalvez,report the code coverage from lcov files,5.0,False,code quality;code review
+github action for formating hcl files,devops-infra,github action automatically formatting all hcl and tf files,4.0,False,continuous integration;code review
+twig dump checker,ajakov,checks for accidental dump in twig files,4.0,False,code search;code review
+github rubocop action,luizfonseca,runs rubocop on your prs   ,4.0,False,code review;code quality
+run phpstan with reviewdog,genealabs,  run php static analyzer with reviewdog,2.0,False,code quality;code review
+run pyright with reviewdog,jordemort,  run pyright on pull requests and get reviews with reviewdog,3.0,False,code review
+dco-check,tim-actions,a github action that verifies commits in pull request all include developer certificate of origin  dco  information,2.0,False,continuous integration;code review
+glua linter,tassia710,lints your glua files and checks them for errors,1.0,False,code review;code quality
+ispw-generate,bmc-compuware,run a generate in ispw,1.0,False,continuous integration;code review
+action check typescript errors,arhia,check tsc errors and compare errors wih base branch,1.0,False,code quality;code review
+run codenarc (static analysis for groovy) with reviewdog,asaasdev,  run codenarc with reviewdog on pull requests to improve code review experience,1.0,False,code quality;code review
+code coverage-reporter,tj-actions,comments a pull request with code coverage report,1.0,False,code quality;code review
+toml linter,yisonpylkita,lint all your toml files,1.0,False,code quality;code review
+mantainer,covalentteam,congratulate short contribuitions to your repositories,1.0,False,code review
+dprint-check-action,dprint,run  dprint check  on your source code,1.0,False,code quality;code review
+ccdc file checks,ccdc-opensource,check changed files for compliance,0.0,False,code quality;code review
+github action for pylint,cclauss,run pylint commands,13.0,False,code quality;code review
+github action for pytest,cclauss,run pytest commands,41.0,False,code quality;code review
+github action for helm templates validation,igabaydulin,checks if helm templates are valid,2.0,False,code review
+rustfmt-check,loligothick,run rustfmt and annotate the diff with expected codes,0.0,False,code quality;code review
+git changes,setare,check if any uncommitted changes are found on the current state of your repo,0.0,False,code review
+run checkstyle (code standard) with reviewdog,asaasdev,  run checkstyle with reviewdog on pull requests to improve code review experience,0.0,False,code quality;code review
+phpcs code anlaysis with reviewdog,genealabs,  run php codesniffer with reviewdog,0.0,False,code quality;code review
+eslint runner action,tinovyatkin,run eslint in parallel of ci build,42.0,False,code quality;code review
+phpunit for laravel,svikramjeet,run phpunit test suite using laravel framework,3.0,False,code quality;code review
+automatic pull request review,andrewmusgrave,  github action to automate pull requests,13.0,False,open source management;code review
+webpack stat reporter (packtracker.io),packtracker,report your webpack build stats to the packtracker io service,7.0,False,code review;reporting
+run flake8 on your pr - with annotations!,tayfun,github action to run flake8 linter on your pull requests and add annotations on errors,17.0,False,code review;code quality
+standard checks,cored,lint your ruby code with standard in parallel to your builds,0.0,False,code quality;code review
+typescript compiler,icrawl,compile your typescript code and check for errors,20.0,False,code review;reporting
+eslint (js/ts) action,icrawl,lints javascript typescript code,23.0,False,code review;reporting
+haml lint action,andrewmcodes,a github action that lints your haml code with haml lint,1.0,False,code quality;code review
+run credo with reviewdog,red-shirts,  run credo with reviewdog on pull requests to improve code review experience,13.0,False,code review;code quality
+danger-textlint-actions,yuichielectric,this github action submits textlint review comments if there are violations,23.0,False,code review;continuous integration
+pull request package labeler,csi-lk,dynamically label pull requests affecting packages in a monorepo   workspace,7.0,False,code review;code search
+chattery,lukejacksonn,creates on demand chatrooms for pull requests,29.0,False,chat;code review
+autopep8 action,creyd,automatically runs the autopep8 command on all your changes,0.0,False,code quality;code review
+jest code coverage report,ziishaned,comments a pull request with the jest code coverage,36.0,False,code quality;code review
+eslint checker,ninosaurus,check if changed files are properly formatted by the provided eslint rules,7.0,False,code quality;code review
+lintly-flake8,grantmcconnaughey,lint python projects with flake8 and create pull request reviews with linting violations,17.0,False,code review;code quality
+godoc action,ktr0731,automated godoc generator   publisher,6.0,False,code review
+extract pull request metadata,rowi1de,extract pull request metadata,1.0,False,code review;code search
+conventional-pr-title,aslafy-z,ensure your pr title matches the conventional commits spec  https   www conventionalcommits org  ,20.0,False,code quality;code review
+run reek with reviewdog,reviewdog,  run reek with reviewdog on pull requests to improve code review experience,4.0,False,code review;code quality
+kotlin linter,vroy,run ktlint in your repository,9.0,False,code quality;code review
+php insights app,worksome,php insights app integration with github actions,5.0,False,code quality;code review
+cloudformation lint action,ryof,cloudformation lint action using cfn lint,2.0,False,code quality;code review
+php_codesniffer check with annotations,chekalsky,phpcs checker with auto annotations out of the box,41.0,False,code quality;code review
+auto label action,banyan,add labels to pull request based on matched file patterns,56.0,False,code review;code search
+autolabeler-codeowners,pratikmallya,automatically label prs based on codeowners,2.0,False,continuous integration;code review
+lint nim with reviewdog,jiro4989,lint nim with reviewdog on pull requests to improve code review experience,9.0,False,code review;code quality
+ganeshpl hello world,ganeshspatil,greet someone and record the time,0.0,False,continuous integration;code review
+list pull requests,buildsville,list and put output pull requests,2.0,False,code review
+gif guardian,jamsinclair,the silent but animated protector of pull requests  automatically label pull requests without gifs,1.0,False,code review;code quality
+rebase-prs,mobileheadholding,rebase prs by entering    rebase   as a comment,1.0,False,continuous integration;code review
+php vardump check action,umutphp,github action for finding forgotten variable dump in php projects,1.0,False,code quality;code review
+phpmetrics action,umutphp,static analysis tool for php,0.0,False,code quality;code review
+auto assign reviewer by assignee,shufo,assign a reviewer based on assignee,2.0,False,code review;continuous integration
+php magic number check,umutphp,to check the repo if there is a magic number usage,2.0,False,code quality;code review
+strivio,jainal09,checks codes of participants of the coding competetion,6.0,False,code review;continuous integration
+run vimlint with reviewdog (alt),bb010g,  run vimlint with reviewdog on pull requests to improve code review experience,0.0,False,code review;code quality
+phplint problem matcher,korelstar,shows php lint errors as annotation  with file and code line  in github actions,3.0,False,code review;reporting
+xmllint problem matcher,korelstar,shows xmllint errors as annotation  with file and code line  in github actions,5.0,False,code review;reporting
+check wip,embano1,checks for wip patterns in titles,0.0,False,code review;continuous integration
+check commit,dragonwell-releng,check commit from file,1.0,False,code review;code quality
+tsc actions,stepek,type checking typescript code,2.0,False,code quality;code review
+yapf python code formatting check,alexandermelde,run yapf to check that your python code if correctly formatted,16.0,False,code review;continuous integration
+unofficial resharper for github,glassechidna,turn resharper code inspections into github pr annotations,11.0,False,code quality;code review
+iglu schema lint,mrchief,validate iglu json schemas for syntax errors,1.0,False,code quality;code review
+potential conflicts checker,outsideris,check if this pull request can be conflict after other pull requests merged,7.0,False,code review
+simple asset size,chrysanthos,find out how much of a change to your asset size a pr will have,8.0,False,code review;code quality
+rubocop github action,prozsolt,github action for rubocop,0.0,False,code quality;code review
+diff pages action,ssowonny,take screenshots of updated static web pages,13.0,False,code review;reporting
+run pyspelling as a github action,sbates130272,run pyspelling on a repository to find spelling mistakes,1.0,False,code review;code quality
+commentator-action,pratapaditya1997,comments dynamic message on your pull requests,0.0,False,code review
+shame old prs,everphone-gmbh,a github action that shames prs that are open longer than a week,1.0,False,code review
+base merger,junmo-kim,merge base branch into pull request by command,3.0,False,code review
+lgtm approve,jonyhy96,approve the pr for you when the owner thinks lgtm,0.0,False,code review
+include guards check,sbeyer,check for  include guards in c c   header files,2.0,False,code quality;code review
+branch guardian,infamous-riddles,create and or delete branch protection rules based on a supplied branch pattern,8.0,False,code review;code quality
+css analytics diff,projectwallace,take css and get the changes per css analytics metric,27.0,False,code quality;code review
+clean-commit,ad1992,github action to prevent the user from writing bad git commit message,5.0,False,code review;code quality
+pylint-and-format,itsvinayak,perform style checking on your python 3 using flake8 and formate code using black,4.0,False,code quality;code review
+code review using misspell,moneyforward,analyze code statically using misspell in github actions,1.0,False,code review
+action-php-codesniffer,tinovyatkin,runs php codesniffer on files changed in current pr or even only on lines by author of pr,7.0,False,code quality;code review
+code review using querly,moneyforward,analyze code statically using querly in github actions,0.0,False,code review
+code review using goodcheck,moneyforward,analyze code statically using goodcheck in github actions,0.0,False,code review
+code review using jshint,moneyforward,analyze code statically using jshint in github actions,0.0,False,code review
+code review using coffeelint,moneyforward,analyze code statically using coffeelint in github actions,0.0,False,code review
+code review using stylelint,moneyforward,analyze code statically using stylelint in github actions,0.0,False,code review
+code review using eslint,moneyforward,analyze code statically using eslint in github actions,3.0,False,code review
+couscous generate,couscousphp,generate couscous io docs,10.0,False,continuous integration;code review
+flake8 jupyter notebook,mhitza,runs code validation via flake8 for python code within jupyter notebooks,0.0,False,code quality;code review
+auto approve dependabot,cognitedata,automatically approve dependabot pull requests,3.0,False,code review;open source management
+pronto ruby by chargify,chargify,your all in one pronto ruby code review automation  forked by chargify to leverage newest rubocop,0.0,False,code review;code quality
+sort problem matcher,codespell-project,shows gnu sort errors as annotation  with file and code line  in github actions,0.0,False,code review;continuous integration
+reginald - a pull-request review bot,alephao,automate your pull request review,7.0,False,code review;open source management
+sonarqube code scanner,monstar-lab-oss,sonarqube is an automatic code review tool to detect bugs  vulnerabilities and code smells in your code,5.0,False,code quality;code review
+gentoo-repoman,gentoo-monero,validate an ebuild repository using repoman,0.0,False,code review
+pr bouncer,oncilla,bounce pull requests that are too big,2.0,False,code review
+php-codesniffer,pipeline-components,php codesniffer by pipeline components,6.0,False,code quality;code review
+add-pr-comment-action,nickatnight,comment on a pull request,0.0,False,code quality;code review
+mql compile,fx31337,compiles mql programs,3.0,False,code quality;code review
+dotnet-sonarcloud-analysis,spoland,run sonar scanner analysis on a dotnet core solution and collect opencover reports,0.0,False,code quality;code review
+run coffeelint with reviewdog,reviewdog,  run coffeelint with reviewdog on pull requests to improve code review experience,0.0,False,code review;continuous integration
+slack_notice,mida-hub,this github action is slack notice to reviewer when pull request review requested,1.0,False,code review;chat
+run alex with reviewdog,reviewdog,  run alex with reviewdog on pull requests to improve code review experience,7.0,False,code review;code quality
+dynamic checklist,vishalsinha21,analyze code and create a dynamic checklist  by commenting on pr,2.0,False,code review
+python quality and format checker,konstruktoid,python linting and format checking using black  safety and flake8,4.0,False,code quality;code review
+erb action,revans,a github action that lets you easily run erb linting for ruby on rails,0.0,False,code quality;code review
+lcov-action,danielealbano,action to run lcov,1.0,False,code quality;code review
+check-pr-branches,italojs,an action to check if my pr branches is allowed to merge,3.0,False,code review;continuous integration
+check permission,sixleaveakkm,check provided token has given permission to repos,0.0,False,code review
+sonarqube actions,achilleslinux,scan your code with sonarqube scanner to detect bugs  vulnerabilities and code smells in more than 25 programming languages,4.0,False,code quality;code review
+changelog reminder,peterjgrainger,if there is not a changelog in the pr add a comment to remind the committer,11.0,False,code review
+deepsource test coverage action,deepsourcelabs,github action that uploads test coverage reports to deepsource for the test coverage analyzer,16.0,False,code quality;code review
+hashicorp's link checker,hashicorp,report broken links found in a given set of files,23.0,True,code review;code quality
+sqlcheck action,yokawasa,automatically identify anti patterns in sql queries using sqlcheck,10.0,False,code quality;code review
+assign me,alberthernandez,automatically adds you to the assignees in the pull request,1.0,False,code review
+conventional commits pr,beemojs,validate a pull request title against a conventional commits preset,5.0,False,code review;continuous integration
+check golang imports order,jerome1337,check imports order of your code using goimports,2.0,False,code quality;code review
+pr-size-labelator,alexromer0,label a pull request based on number of lines modified,2.0,False,code review;code quality
+c++ code check using clang/cppcheck/flawfinder,tlazypanda,check your pull requests against cppcheck  flawfinder and clang,1.0,False,code quality;code review
+pagerduty pull request notifier,lmasaya,send alert notification to pagerduty on pull request,1.0,False,code review;code quality
+check pull request format action,tikurahul,a github action that ensures pull requests follow a specific format,1.0,False,code review
+commit-body-check,tim-actions,a github action that verifies wheather commits have bodys,0.0,False,code review;continuous integration
+meep scanner,moreeyesplz,scans commit messages for meeps and submits them,8.0,False,code review;community
+pull request status action,niteoweb,a github action to create pull request status,2.0,False,code review;continuous integration
+action-check-compressed-size,arhia,get compressed size differences for every pr,5.0,False,code quality;code review
+python vulture action,anaynayak,run vulture to analyse dead code in python projects,0.0,False,code quality;code review
+on-approve,rbarbazz,give a thumbs up upon approving a pr,1.0,False,code review
+open coverage notifier action,bearbobs,sends a comment notifcation regarding code coverage in pul requests,0.0,False,code quality;code review
+git diff --check,joel-coffman,warn if changes introduce conflict markers or whitespace errors,0.0,False,code review
+rust-cargo-udeps,aig787,detect unused dependencies in a rust project,1.0,False,continuous integration;code review
+elm-review,sparksp,use elm review to check code quality,11.0,False,code review;code quality
+dart/flutter package analyzer,axel-op,performs static analysis  linting  formatting  to compute the pub score of your dart flutter package,42.0,False,code review;continuous integration
+commit message checker for pull request,tim-actions,check the commit message in pr against a regex pattern,3.0,False,code review;continuous integration
+coveralls github action,coverallsapp,send test coverage data to coveralls io for analysis  change tracking  and notifications,242.0,True,code quality;code review
+commit linter,wagoid,lints pull request commit messages with commitlint,119.0,False,code quality;code review
+amplify-preview-actions,yinlinchen,this action builds and deploys your aws amplify pull request preview for public repository,7.0,False,continuous integration;code review
+rubocop linter action,andrewmcodes-archive,a github action that lints your ruby or ruby on rails code with rubocop,81.0,False,code quality;code review
+pmd source code analyzer action - for sap,ashkumar-wtc,this action allows to use pmd source code analyzer from github actions and fixes a small issue with permissions,0.0,False,code quality;code review
+request review for team,acq688,assign reviews to individuals or teams based on the pr s author or author team,2.0,False,code review
+check and reject spam prs,andrewslotin,run basic checks and close   mark spam prs,45.0,False,code review;community
+review reminder,blombard,send reminders to requested reviewers of a pull request,4.0,False,code review
+lfs-warning,actionsdesk,checks file sizes in a pull request and warns of large files,7.0,False,code review;continuous integration
+auto rebase,label305,automatically rebases pull requests that are out of date,12.0,False,code review
+coherent-swift,arthurpalves,measures cohesion in your swift codebase,66.0,False,code quality;code review
+run semgrep with reviewdog,g-wilson,  run semgrep with reviewdog on pull requests to improve code review experience,0.0,False,code quality;code review
+banner checker,a-katopodis,validate your files begin with a specific banner for compliance reasons,0.0,False,code quality;code review
+codenotify,sourcegraph,notify subscribed users and groups of changes,23.0,False,code review
+closed reference notifier,ory,github action that opens an issue when a in code refered issue pull request is closed,13.0,False,code review;code search
+editorconfig check,wow-rp-addons,lints files against the repository wide editorconfig settings,0.0,False,continuous integration;code review
+use-herald-action,gagoar,github action to add reviewers  subscribers and assignees to your pr,29.0,False,code review;utilities
+tiangolo's label approved,tiangolo,add labels to approved pull requests,16.0,False,code review;open source management
+hacktoberfest greet,harishteens,greet someone and when someone makes a pull request,4.0,False,code review
+luacheck,nebularg,runs luacheck,9.0,False,code review;continuous integration
+run ktlint with reviewdog,scacap,  run ktlint with reviewdog on pull requests to enforce best practices,29.0,False,code quality;code review
+qhub github actions,quansight,runs qhub commands via github actions,0.0,False,code review;continuous integration
+pull request description enforcer,derkinderfietsen,github action for enforcing description on pull requests,3.0,False,code review;utilities
+run vimlint with reviewdog,tsuyoshicho,  run vimlint with reviewdog on pull requests to improve code review experience,0.0,False,code review;code quality
+sonarqube scan,kitabisa,scan your code with sonarqube scanner to detect bugs  vulnerabilities and code smells in more than 25 programming languages,65.0,False,code review;code quality
+bad commit message blocker,platisd,inhibit commits with bad messages from getting merged,50.0,False,code review;continuous integration
+pytest coverage commentator,coroo,a github action to comments a pytest coverage on pr,12.0,False,reporting;code review
+comment testplans and generate screenshots,randhirmsingh,reads all testplans from  xcode project and comments on github,0.0,False,code review;code quality
+hallmark lint,vweevers,lint markdown files with hallmark,1.0,False,code review
+frama-c-eva,frama-c,sound analysis of c code with the open source platform frama c  exhaustively list possible runtime errors,6.0,False,code quality;code review
+actions ecosystem action lint commits,actions-ecosystem,lint commits on a pull request,3.0,False,code review;code quality
+jsperformobot,florianmarkusse,uses jsperformobot to check for performance improvements,2.0,False,code quality;code review
+open github issue automate,mihinduranasinghe,opens a github issue,0.0,False,reporting;code review
+eslint plus,bradennapier,runs eslint against changed files with customization  issue commenting  and more,20.0,False,code quality;code review
+helix check,ethisysltd,check if solution is following helix rules,6.0,False,code quality;code review
+add pr owner,a-b-r-o-w-n,adds code reviewer as pull request assignee,0.0,False,open source management;code review
+html5 validator experimental,cyb3r-jak3,checks html5 syntax using an experimental branch of html5validator,0.0,False,code review;code quality
+django migration checker,hardcoretech,check django app migrations dependency tree,0.0,False,code quality;code review
+migration toolkit for applications - action,carlosthe19916,executes migration toolkit for applications  mta  and analyze your code for migrations,2.0,False,code review;reporting
+c++ style check (compiled),dal-papa,runs c   style check with uncrustify,0.0,False,code quality;code review
+modelix url,coolya,adds a link to the current diff on your modelix instance to every pull request,2.0,False,code review
+phpcs code review for codechef,codechef-org,this will run phpcs on prs,0.0,False,code review
+enforce pull request title includes jira issue key,ryanvade,check that a pr title starts with a jira issue key,2.0,False,code review;open source management
+setup detekt,peter-murray,installs a specific version of detekt into the github actions tool cache,5.0,False,code quality;code review
+action-shellcheck,sudo-bot,use shellcheck without having to install it,0.0,False,code quality;code review
+geojson lint,chris48s,run  mapbox geojsonhint on geojson files in pull requests,1.0,False,code quality;code review
+request review,murs313,a github action for requesting review,1.0,False,code review
+pr label by base,nrccua-walter-manger,automatically labels your prs based on the base ref branch you are merging into,0.0,False,code review
+enforce active pull request is labeled,ryanvade,check that a pr which is out of draft status has labels,0.0,False,code review;open source management
+enforce active pull request is assigned,ryanvade,check that a pr which is out of draft status has been assigned,0.0,False,code review;open source management
+izuna-action,matsumonkie,run izuna,1.0,False,code review;code quality
+dotenv-linter,wemake-services,runs dotenv linter as a github action,214.0,False,code quality;code review
+run remark-lint with reviewdog,reviewdog,  run remark lint with reviewdog on pull requests to improve code review experience,2.0,False,code quality;code review
+github actions workflow linter,cschleiden,parse and validate github actions workflows,12.0,False,code review;code quality
+flow coverage compare,jackieo5023,github action to compare flow coverage on a pr to the base branch,2.0,False,code quality;code review
+phpcs in action,doroshenkoss,run phpcs,0.0,False,code quality;code review
+github action linting terraform files,devops-infra,github action that will run tflint on terraform files,5.0,False,continuous integration;code review
+"python code style, quality, and lint",weibullguy,supports a plethora of tools for checking your python code and packages,5.0,False,code quality;code review
+.net code coverage badge,simon-k,extact code coverage percentage from an opencover report and generates metadata for a shields io badge,2.0,False,code quality;code review
+parse-review-comments,homexlabs,gets the review from pr and parse it,2.0,False,code quality;code review
+secret serfer,chiefus,looking for secrets in current commit  it can create a report in junit format,0.0,False,code review;code search
+a11y friendly badges for github,leonstafford,a github action that uses information from your build to generate accessible project statistics,3.0,False,code quality;code review
+rubocop todo checker,gimmyxd,checks that no new rubocop offenses are added when using  rubocop todo yml,0.0,False,code quality;code review
+pronto ruby,adwerx,"run pronto code review runners on your commits and pull requests
+and get feedback as inline code annotations ",17.0,False,code review;code quality
+github pr content checker,jsoares,checks pr body and diff for word occurrences,0.0,False,code review
+gugod-perlcritic,gugod,perlcritic by gugod,1.0,False,code review;code quality
+ansible-later,patrickjahns,lint ansible roles playbooks with ansible later,1.0,False,code quality;code review
+action sonarqube,vtex,scan code using sonarqube and show issues in pull requests,6.0,False,continuous integration;code review
+goto-raptor,nickcrews,sends velociraptors if  goto  statements are added  xkcd com 292,0.0,False,code review;code quality
+brakeman linter action,gabofdc,a github action that lints your ruby code with brakeman,0.0,False,code review;code quality
+src datalinter,7474,lint src data,0.0,False,code review
+cccc-action,sarnold,generate useful metrics for c  c    and java code,2.0,False,code quality;code review
+auto close pr,imba-tjd,close prs whose body text don t match with given patterns,1.0,False,open source management;code review
+re-run workflow,reitermarkus,re run a workflow once or continuously until it succeeds by applying  or removing  labels to a pull request ,2.0,False,continuous integration;code review
+slack notify pull request,erskaggs,use github actions to notify slack that a pull request has been opened,0.0,False,code review
+pr chatter,brianmitchl,add fun chatter to your pull requests,0.0,False,code review;chat
+detect branch changes,younited,"detect all changes in a branch  this is done by detecting the fork point of the current branch with the
+repo s base branch ",1.0,False,code review;continuous integration
+run remark-lint with reviewdog for documentation projects,civicactions,  run remark lint with reviewdog on pull requests for documentation projects,0.0,False,code review
+semantic-pull-request,amannn,ensure your pr title matches the conventional commits spec  https   www conventionalcommits org  ,82.0,False,code review;continuous integration
+php copy paste detector,stephanebour,php cpd,3.0,False,code quality;code review
+sonar scan action,nasiruddinml,sonarqube scanner with heap memory options detect bugs  vulnerabilities and code smells in more than 25 programming languages,0.0,False,code quality;code review
+cypress report action duynhanf,duynhanf,basic report added to the pull request as a comment with summary and detailed failures table using github actions,0.0,False,code review
+changelog checker,zomzog,verify the changelog has been updated,10.0,False,code quality;code review
+sonarqube scanner trigger,fedecalendino,automatically trigger a call to sonnar scanner,0.0,False,code quality;code review
+secret existence,devsamuelv,github action to check for file existence,0.0,False,code review
+clover-diff-action,levonet,calculate the difference between the two coverage reports,0.0,False,code quality;code review
+gugod-perlcritic (with reviewdog),gugod,perlcritic by gugod,1.0,False,code review;code quality
+run detekt with reviewdog,alaegin,  run detekt with reviewdog on pull requests to enforce best practices,6.0,False,code quality;code review
+kyverno-cli,gbaeke,runs kyverno cli,2.0,False,code review
+sonnarqube code analysis,experfy,review code using sonarqube,0.0,False,code review
+task list zero,weeverapps,ensure all tasks are checked,2.0,False,code review
+java checkstyle action,justintime50,run java checkstyle in a command line context via github actions,1.0,False,code quality;code review
+add pull request reviewer,averycameronuofr,adds reviewer s  to a pull request,3.0,False,code review;continuous integration
+setup reviewdog,reviewdog,  this action sets up reviewdog,21.0,False,code review;code quality
+is ready,alberthernandez,check if the pull request is ready to be merged in the main branch,0.0,False,code review
+comment test coverage as table,vhoyer,read a test coverage coverage summary json test report and comment stats on to pr,0.0,False,code review
+json keys,valentinvignal,a github action to check keys of json files,0.0,False,code quality;code review
+lychee broken link checker,lycheeverse,quickly check links in markdown  html  and text files,26.0,False,code review;continuous integration
+qs-rust-clippy,qernal,rust clippy  linter ,0.0,False,code quality;code review
+clang-format lint,doozyx,github action that check if code is formatted correctly using clang format,55.0,False,code quality;code review
+auto request review,necojackarc,automatically requests review of a pull request based on files changes and or groups the author belongs to  ,20.0,False,code review
+cppcheck-action,deep5050,find potential vulnerabilities in your c c   codes,12.0,False,code quality;code review
+ktlint-pr-comments,le0nidas,run ktlint in all added modified  kt files and make comments for any errors,14.0,False,code quality;code review
+codestatistics,jojo2357,gathers statistics into interactable md files for code in a project,2.0,False,code review;reporting
+dart analyze,valentinvignal,analyze a dart code,6.0,False,code quality;code review
+codebase scanner,kiliczsh,scan codebase for existence scan keyword,1.0,False,code review;code search
+clang-tidy review,zedthree,create a pull request review based on warnings from clang tidy,9.0,False,code review;code quality
+alex recommends,brown-ccv,create comment on pull request with alex recommendations,16.0,False,code review;reporting
+block fixup commit merge,13rac1,block merge of pull requests containing fixup commits  so you do not forget to squash autosquash,19.0,False,code quality;code review
+c/c++ lint action,shenxianpeng,automatically checks pull requests changes with clang tidy  clang format  and cppcheck and posts the comment with result,1.0,False,code quality;code review
+check spelling,check-spelling,spell check commits,51.0,False,code review;code quality
+action-pr-size-checker,budougumi0617,verify pull request size without sepecified file names,2.0,False,code review
+php code style fixer (php-cs-fixer),stephanebour,php code style fixer  php cs fixer ,4.0,False,code quality;code review
+doc-validator,amitmiran137,greet someone and record the time,0.0,False,code review
+eslint pr review,rpkak,it lints with eslint,3.0,False,code quality;code review
+validate nerdpack action,newrelic,checks for presence of new relic standard open source files  new relic one catalog metadata  and package script commands,2.0,False,code review;continuous integration
+ensure files changed,danieljimeneznz,ensure files changed,0.0,False,code review;code quality
+pullpreview,pullpreview,automatically spin and maintain preview environments for your pull requests,51.0,False,continuous integration;code review
+norminette 42,jaeseokim,check 42 norm with norminette linter,0.0,False,code review;code quality
+pr commenter,exercism,adds a comment to a pr that can differ depending on which files are being changed in that pr,5.0,False,code review
+verify changelog updated,takanuva15,verify that the changelog file has been updated in the current pr,0.0,False,code review
+unresolved review threads,samuelcabralcruz,prevent merge of pull request having unresolved review threads,0.0,False,code review;code quality
+report arduino sketch size deltas,arduino,comments on the pull request with a report on the resulting change in memory usage of arduino sketches,6.0,False,continuous integration;code review
+pr-reporter-slack,seanreece,slack messages for your prs,5.0,False,reporting;code review
+lint-md-github-action,lint-md,lint md service for github action,8.0,False,code review;code quality
+run black formatter with reviewdog,reviewdog,  run black formatter with reviewdog on pull requests to improve code review experience,5.0,False,code review;code quality
+problem matcher wrapper (linter errors as annotations even for fork prs),liskin,invoke linters  detect errors warnings  show them as annotations  supports prs from forks  unlike other actions,8.0,False,code quality;code review
+sticky pull request comment,marocchino,create comment on pull request  if exists update that comment,65.0,False,code review;continuous integration
+pr reviewer slack notify action,mlg87,blow up a channel with  s when adding people to review your pr,2.0,False,code review;chat
+verilog cleaner,suibianp,lint and format verilog code,1.0,False,code review;code quality
+commit-linter-cli,severgroup-tt,lint commit messages,5.0,False,code review;code quality
+no weekend merge,ka7eh,an action to prevent merges on weekends  or whenever that a merge should not happend,1.0,False,code review;continuous integration
+block autosquash commits,xt0rted,prevent merging pull requests that contain commit messages prefixed with fixup  or squash,14.0,False,code review
+action-php-codesniffer-with-report,andrewdavid,runs php codesniffer on files changed in current pr or even only on lines by author of pr,0.0,False,code quality;code review
+test coverage check,sergavshin,check coverage and annotate uncovered code in pr,0.0,False,code quality;code review
+auto update your github action configuration files,avides,updates the github action configuration   yml  files if necessary,0.0,False,code review;code quality
+"project version check (maven, nodejs...)",avides,checks if the project version has been updated,2.0,False,code review;code quality
+run flake8 with reviewdog,reviewdog,  run flake8 with reviewdog on pull requests to improve code review experience,5.0,False,code quality;code review
+add pr review comment,nbaztec,add review comments to a pull request,0.0,False,code review;continuous integration
+prettier action,creyd,automatically runs prettier on all your changes,91.0,False,code quality;code review
+annotate action,yuzutech,creates annotations from a json file,4.0,False,code review;code quality
+weekly auto assign code buddies,myztiq,auto assigns pull requests to users for a given week,0.0,False,code review
+action-phpcs,thenabeel,runs php codesniffer on files changed in current pr or even only on lines by author of pr,2.0,False,code quality;code review
+block pr merges if keyword found,itsvs,checks that the added code in a pr doesn t contain a keyword,1.0,False,code review
+review assign action,hkusu,automatically set assignees and reviewers in pull request,6.0,False,code review;continuous integration
+enforce pull request description length,ryanvade,check that a pr description is filled out,0.0,False,code review;open source management
+checkprcomments,talentia-software-oss,check that pr comment contains  or not  a given text,2.0,False,code review
+code climate coverage action,paambaati,publish code coverage to code climate,90.0,False,code quality;code review
+review badger,nicklemmon,badger your team to pick up reviews,0.0,False,code review;chat
+check code formatting using gofmt,jerome1337,check code formatting using gofmt,5.0,False,code quality;code review
+sonarqube with shellcheck,sunilagarwal22,scan your shell  bash scripts   python  groovy  etc  code with sonar scanner to detect bugs  vulnerabilities and code smells,0.0,False,code quality;code review
+action-git-diff-suggestions,getsentry,this github action will take the current git changes and apply them as github code review suggestions,9.0,True,code quality;code review
+update codeowners,gofunky,generate and update github s codeowners file based on the git fame of files,2.0,False,open source management;code review
+stylelinter,actions-hub,github action that runs stylelint,15.0,False,code quality;code review
+checkpatch.pl pr review,webispy,code review for pr using checkpatch pl,3.0,False,code review;code quality
+bash shell beautifier,illvart,run beautysh to beautify a bash shell scripts code,2.0,False,code quality;code review
+pr output,zattoo,outputs markdown content to pull requests,2.0,False,code review;reporting
+auto reviews,golfzaptw,review automatic  pull request  from selected branches or author,3.0,False,code review;code quality
+commit push and pr,golfzaptw,automatically commits and push files which have been changed and pull request,1.0,False,code quality;code review
+danger action,meilcli,run danger,17.0,False,code quality;code review
+missing changelog reminder,mskelton,reminds users to add a changelog if their pull request is missing one,4.0,False,code review;utilities
+poorlydefinedbehavioyr/nyc-reporter,poorlydefinedbehaviour,run tests   comment coverage on pull request,3.0,False,code quality;code review
+yeslinter,chilupa,runs linter on your prs,0.0,False,code quality;code review
+hold your horses,mheap,prevent prs from being merged too quickly,6.0,False,code review;continuous integration
+require labels,mheap,require labels to be added to a pull request before merging,9.0,False,code review
+auto assign review teams,rowi1de,send review requests to teams  with auto assignment  or persons,8.0,False,code review;community
+codeowners action,svanboxel,extracts codeowners information,7.0,False,code review;utilities
+rubocop problem matchers,r7kamura,setup problem matchers for rubocop,8.0,False,continuous integration;code review
+pr monitor,andrewandante,scan for open pull requests and send a slack update,0.0,False,code review;chat
+run reek with reviewdog - by hopin,hopin-team,  run reek with reviewdog on pull requests to improve code review experience,0.0,False,code review;code quality
+phpstan for wordpress,dingo-d,php static analysis in github actions for wordpress,6.0,False,code quality;code review
+reviewdog-suggester: suggest any code changes based on diff with reviewdog,reviewdog,  suggest any code changes based on diff through github multi line code suggestions,26.0,False,code review;code quality
+pull request updater github action,tzkhan,github action that updates a pull request with information extracted from branch name,31.0,False,code review
+bugout: locust summary,bugout-dev,generate a locust summary of a git diff,4.0,False,code review;code search
+phpanalysedog,middlefieldinc,php code analyse on pull request and review comment via reviewdog,0.0,False,code review;code quality
+run phpmd with reviewdog,genealabs,  run php mess detector with reviewdog,1.0,False,code quality;code review
+detect blank pr,adcdr,detects if a pr only contains whitespace  newlines or no changes,0.0,False,code quality;code review
+run phpcs-wordpress with reviewdog,oohnoitz,  run phpcs for wordpress with reviewdog on pull requests to improve code review experience,0.0,False,code review;code quality
+go-mnd,tommy-muehle,runs the golang magic number detector,109.0,False,code quality;code review
+php analyse dog,shiromegane,run php code analyse on pull request and review comment via reviewdog,1.0,False,code quality;code review
+clover code coverage report,danhunsaker,comments a pull request with the code coverage,3.0,False,code review;reporting
+upload coverage to code climate,caffco,uploads coverage info to code climate,0.0,False,code quality;code review
+coverage check,devmasx,a github action that check minimum coverage percentage,8.0,False,code quality;code review
+gs commit message checker,gsactions,check the commit message against a regex pattern,36.0,False,code quality;code review
+pull request reviewer reminder action,tommykw,action to send github mentions when there are pull requests pending for reviews,3.0,False,code review
+pull request reviewee reminder action,tommykw,action to send github mentions when there are pull requests that has exceeded the lifetime,3.0,False,code review
+python linter,sunnysid3up,ensure python code quality  supports pylint  black  mypy and isort,6.0,False,code quality;code review
+actionsx/prettier,actionsx,native  blazingly fast prettier cli on github actions,10.0,False,code quality;code review
+azure devops work item linker,solidify,this github action creates a pull request comment with a link to an azure devops work item,4.0,False,code review
+mirror action,tianhaoz95,checks if the content of 2 files are the same,1.0,False,code quality;code review
+eslint check action,dunklestoast,runs eslint checks and bails if there is a failure,0.0,False,code quality;code review
+cfn-guard-action,maskerade,runs cloudformation guard,0.0,False,continuous integration;code review
+phpcs github action running wpthemereview checks,dingo-d,runs phpcs checks with wpthemereview standards,3.0,False,code review;code quality
+opinionated-commit-message,mristin,check commit messages according to an opinionated style,35.0,False,code quality;code review
+hexlet project action,hexlet,for testing projects,0.0,False,code review
+ansible-inventory-diff,skedulo,determines the difference in inventory variables between two git refs,1.0,False,code review
+bundlephobia-checker,carlesnunez,check for new packages and their sizes,33.0,False,code quality;code review
+codeowners lint,fmenezes,lints codeowners files,0.0,False,code review
+seal of approval,andrewchmr,github action that gives seal of approval to your pr,3.0,False,code review;code quality
+sync pull requests to azure boards,danhellem,create a work item in azure devops when a pull request is created,8.0,False,code review;community
+run phpcs with reviewdog,shirobrak,  run phpcs with reviewdog on pull requests to improve code review experience,2.0,False,code review;code quality
+git pylint github action,vcoder4c,run pylint on pr change files only,1.0,False,code quality;code review
+polarity integration development checklist,polarityio,checks a list of requirements for each polarity integration development,0.0,False,code review;open source management
+labeler-test,ylemkimon,add labels to new pull requests based on the files that are changed,0.0,False,code review
+google chatroom message,ipacheco-uy,send google chat messages for some github actions,2.0,False,code review;chat
+jest coverage commenter,dkershner6,comment on prs with jest coverage information,4.0,False,code quality;code review
+pr review approval action,pwei1018,pr review approval action,0.0,False,code review
+auto assign reviewer by files,shufo,automatically assigns reviewers based on changed files,5.0,False,code review;continuous integration
+typescript linter action,antonkornus,action for typescript check,3.0,False,code quality;code review
+stuck pull request notifier,jrylan,automatically label and mention notify users about stuck pull requests,0.0,False,code review;code quality
+reviews counter,jrylan,collaborator pull request review counter,2.0,False,code review;code quality
+ksp-avc version file validator,dasskelett,validate the ksp avc  version file of your mod against the avc schema,2.0,False,continuous integration;code review
+run detekt with reviewdog (fork),gumil,  run detekt with reviewdog on pull requests to enforce best practices,1.0,False,code quality;code review
+dart test annotations,rodrigost23,parses dart test json report and shows annotations in files,0.0,False,code quality;code review
+gocd mergeable,ganeshspatil,verifies the config repository changes can be merged with gocd configuration,6.0,False,continuous integration;code review
+rust-clippy-check,actions-rs,run clippy and annotate the diff with errors and warnings,179.0,False,code quality;code review
+run dotenv-linter with reviewdog,dotenv-linter,  run dotenv linter with reviewdog on pull requests to improve code review experience,11.0,False,code review;code quality
+bundlephobia-pr-review,jonathan-fielding,check for new packages and their sizes,1.0,False,code review;code quality
+run codespell with reviewdog,plettich,  run codespell with reviewdog on pull requests to improve code review experience,0.0,False,code review;code quality
+mention reviewers,techshift,this action creates a string that mentions all the reviewers for a pull request,1.0,False,code review
+jest github action reporter,ignusg,jest junit github actions annotation reporter made easy,8.0,False,code review;continuous integration
+run pyflakes with reviewdog,reviewdog,  run pyflakes with reviewdog on pull requests to improve code review experience,3.0,False,code review;code quality
+earmuffsaction,dannyhinshaw,status check source code for foul language,2.0,False,code review;code quality
+run php check code with reviewdog,ducla5,run phpcs  phpmd to check your code,3.0,False,code review;code quality
+codespell problem matcher,codespell-project,shows codespell errors as annotation  with file and code line  in github actions,0.0,False,code review;continuous integration
+go-linter,jerome1337,lint your code using golint,3.0,False,code quality;code review
+code review action,moneyforward,analyze code statically in github actions,1.0,False,code review
+run nim check with reviewdog,reviewdog,  run nim check with reviewdog on pull requests to improve code review experience,6.0,False,code review;code quality
+draft pr closer,treiff,automatically close draft prs after a period of time,0.0,False,code review;open source management
+run haml-lint with reviewdog,84codes,  run haml lint with reviewdog on pull requests to improve code review experience,1.0,False,code quality;code review
+pull request stylecheck,maximbircu,github action to enforce conventions for pr branch name and commit messages,8.0,False,code review;code quality
+run d-scanner (d language linter) with reviewdog,dgellow,  run d scanner with reviewdog on pull requests to improve code review experience,0.0,False,code review;code quality
+code review using rails best practices,moneyforward,analyze code statically using rails best practices in github actions,4.0,False,code review
+code review using reek,moneyforward,analyze code statically using reek in github actions,0.0,False,code review
+code review using rubocop,moneyforward,analyze code statically using rubocop in github actions,1.0,False,code review
+code review using brakeman,moneyforward,analyze code statically using brakeman in github actions,1.0,False,code review
+dartanalyzer annotations,kitek,creates annotations from dartanalyzer outputs,1.0,False,code quality;code review
+no pull requests,codelytv,automatically closes any open pull request,9.0,False,continuous integration;code review
+resharper inspectcode,nbadal,an action that runs the inspectcode cli utility from jetbrains,1.0,False,code quality;code review
+twigcs,dirtdiglett,a github action that runs twigcs on a repository,0.0,False,code quality;code review
+php static analyser (phpstan),chindit,phpstan run,1.0,False,code quality;code review
+comment on a pull request,khezen,write a comment on a pull request,1.0,False,code review
+pull request workflow cancel,khan,cancel stale workflow runs for the current pull request,5.0,False,code review;continuous integration
+auto assign reviewer by issuer,shufo,this action will automatically assigns reviewers based on pull request issuer,2.0,False,code review;continuous integration
+ros docs,automodality,documentation generation for ros projects,0.0,False,code review;reporting
+comment if files changed,bussebu,post a reply to comments in prs if file to which the comment was left has been changed,5.0,False,code review
+unanimously approved,snow-actions,approved by all reviewers,0.0,False,continuous integration;code review
+spectral comment,l-lin,comments pull requests with spectral linter outputs,1.0,False,code quality;code review
+well-wisher-1.0,aman-zishan,greets people,1.0,False,code review
+promtool github action,karancode,github action for promtool   quickly check whether a rule file is syntactically correct,6.0,False,code review;continuous integration
+replace pull-request body,claudiamatosa,a github action to replace pull request variables inside the pull request body,2.0,False,code review
+google-chat-github-notification,commonmarvel,google chat notification for github actions,6.0,False,code review;chat
+flake8 annotator,rbialon,annotate prs with flake8 errors and warnings from github checks output,8.0,False,code review;code quality
+open github issue 222,alialaa,opens a github issue,1.0,False,reporting;code review
+ready for review - slack notifier,kv109,notifies you when a pull request is ready for review  accepted or rejected,2.0,False,code review
+reward for own pr approval,xshteff,posts a meme if someone approves merges their own pr,6.0,False,community;code review
+container structure test action,plexsystems,setup container structure test in your github workflows,3.0,False,code quality;code review
+check commits,gimmyxd,check commits against defined rules,0.0,False,code review
+run php_codesniffer with reviewdog,hrysd,run php codesniffer with reviewdog,5.0,False,code quality;code review
+scan with sonar scanner,mathrix-education,sonar scanner on github actions,7.0,False,code quality;code review
+octocop,freshly,run rubocop against the diff of your pr base,3.0,False,code review
+python pylint github action,fylein,pylint github action running on python slim docker image,2.0,False,code quality;code review
+attractor action,julianrubisch,a github action that lets you easily run attractor  a code quality exploration tool especially for ruby on rails,1.0,False,code quality;code review
+promtool github actions,peimanja,runs prometheus promtool commands via github actions,8.0,False,code review;code quality
+review summary,buildsville,review summay to output,1.0,False,code review
+brakeman linter,devmasx,a github action that lints your ruby code with brakeman,13.0,False,code review;code quality
+standardrb action,andrewmcodes,a github action that lints your ruby code with standardrb,12.0,False,code review;code quality
+custom github status,geekodour,github action to create custom status,2.0,False,code review;continuous integration
+run stylelint with reviewdog,reviewdog,  run stylelint with reviewdog on pull requests to improve code review experience,22.0,False,code review;code quality
+pr build & merge,nikhilaii93,automatically builds   merges after approval and optional label,7.0,False,continuous integration;code review
+edgedesigncz phpqa tool suite,mickaelandrieu,analyze php code with one command,3.0,False,code quality;code review
+analysis publisher,digirati-labs,publish code analysis results as diff annotations,5.0,False,code quality;code review
+github action for flake8,cclauss,run flake8 commands,11.0,False,code quality;code review
+go-linty,arangogutierrez,linty support an iterative process to clear out lints from go code,9.0,False,code review;code quality
+haskell linter,domdere,run hlint on your haskell code base,15.0,False,code quality;code review
+label approved pull requests,abinoda,auto label pull requests that have a specified number of approvals,119.0,False,code review;reporting
+assignee to reviewer,abinoda,automatically create review requests based on assignees,117.0,False,code review
+comment-related-issues,riiid,comment on github pr with related issues in your issue trackers,3.0,False,code review
+stylua,johnnymorganz,github action to run stylua  an opinionated lua code formatter,5.0,False,code quality;code review
+coverage badge js,tj-actions,generate coverage badge using istanbul s json  summary,1.0,False,code quality;code review
+git-democracy,myyk,add voting to your pull requests,2.0,False,code review;community
+annotate check scripts output,agyemanjp,create github checks  with annotations for prs  from json file outputs of custom code check scripts,2.0,False,continuous integration;code review
+run static analysis for c++ project,jacobdomagala,runs cppcheck and clang tidy on cmake based project  the result will be added as pr comment,3.0,False,code quality;code review
+prevent file change,xalvarez,fail a pull request workflow if certain files are changed,2.0,False,continuous integration;code review
+composer.lock diff,wyrihaximus,github action that diffs composer lock between current branch and default branch,8.0,False,code review
+pull request automerge action,davideviolante,github action to automatically merge pull requests when some conditions are met,3.0,False,code review;continuous integration
+github action for committing changes to a repository,devops-infra,github action that will create a new commit and push it back to the repository,3.0,False,continuous integration;code review
+run eslint on changed files,tj-actions,run eslint on javascript files,4.0,False,code quality;code review
+pr size checker,maidsafe,check pr total lines changed,3.0,False,code review;continuous integration
+new gems,aki77,add a message in pull request with basic information when new gems are added,3.0,False,code review;reporting
+django test ci,uknowwhoim,a github action to run your django tests,4.0,False,continuous integration;code review
+clang format github action,rafikfarhad,an action that check the code format is compliant with a certain configuration,5.0,False,code quality;code review
+checkstyle for java,dbelyaev,  run checkstyle analysis on java code and report results directly to pull request with the help of reviewdog,5.0,False,code quality;code review
+pronto action,heromo,github action of pronto,6.0,False,code review;code quality
+opa action,koozz,opa pull request assessor  automatically check your structured configuration data using open policy agent,6.0,False,code review
+dart code metrics action,dart-code-checker,a github action to perform dart code metrics checks automatically,10.0,False,code quality;code review
+run vint with reviewdog,reviewdog,  run vint with reviewdog on pull requests to improve code review experience,7.0,False,code review;code quality
+run brakeman with reviewdog,reviewdog,  run brakeman with reviewdog on pull requests to improve code review experience,11.0,False,code review;code quality
+rich code nav indexer,microsoft,indexes a repo to the rich code nav cloud service,12.0,True,code review;code search
+spa reporter,roncsak,parse and report gradle lint issues to pr,0.0,False,code quality;code review
+html5 validator,cyb3r-jak3,checks html5 syntax using html5validator,13.0,False,code review;reporting
+react-native-bundle-size,shwetsolanki,github action to add react native bundle size as status check,0.0,False,code review
+gfmfmt action,purplebooth,uses pandoc to lint and optionally format markdown to a standard format,0.0,False,code quality;code review
+detekt all,natiginfo,this action can be used to run detekt checks to enforce best practices,15.0,False,code quality;code review
+wip-check,tim-actions,a github action tests if the pr contains any label or keyword in the title intended to prevent premature merging of the pr,0.0,False,code review
+committed-action,crate-ci,run committed to check commit history,24.0,False,code quality;code review
+psalm – static analysis for php,psalm,run psalm via github actions,28.0,True,code quality;code review
+run java checkstyle,nikitasavinov,run java checkstyle with reviewdog,31.0,False,code quality;code review
+run hadolint with reviewdog,reviewdog,  run hadolint with reviewdog on pull requests to lint dockerfile and validate inline bash,33.0,False,code review;code quality
+static analysis checker,k8s-school,static code analysis checker for golang,0.0,False,code quality;code review
+codacy analysis cli,codacy,execute codacy code analysis using your remote codacy configuration,35.0,True,code quality;code review
+pr target labeler,jocel1,automatically labels your prs based on base branch name patterns like feature   or fix  ,0.0,False,code review
+pmd analyser,synergy-au,runs pmd source code analyser based on the ruleset defined   https   pmd github io ,1.0,False,code quality;code review
+conventional pull request,condenast,lint pull requests with the conventional commit spec  for a clean and conventional commit history,3.0,False,continuous integration;code review
+pytype python checker,theahura,run pytype to static type check your code,1.0,False,code quality;code review
+"conform action, jira enabled. poc",morgangeek,policy enforcement for your pipelines  jira enabled  poc,0.0,False,code review;continuous integration
+pr lint github action - poc,morgangeek,pr lint for github actions   poc,0.0,False,code review;continuous integration
+linear branch enforcement,jeffreygarrett,enforce branches,0.0,False,code review
+troubleshoot codacy analysis cli,troubleshoot-codacy,troubleshoot to execute codacy code analysis using your remote codacy configuration,0.0,False,code review
+automatically assign action,titenkov,add reviewers or assignies to pull requests,0.0,False,code review
+run tflint with reviewdog,reviewdog,  run tflint with reviewdog on pull requests to enforce best practices,49.0,False,code review;code quality
+blumilk pull request title rules,blumilksoftware,github action to enforce pull request title conventions,0.0,False,code review
+run rubocop with reviewdog,reviewdog,  run rubocop with reviewdog on pull requests to improve code review experience,54.0,False,code review;code quality
+sh-checker,luizm,run shellcheck and or shfmt on all shell script files and include commentaries  there is a exclude parameter,53.0,False,code quality;code review
+check mobile user-friendliness,delsinvg,this action checks whether the website is user friendly for a mobile device,0.0,False,code review
+run shellcheck with reviewdog,reviewdog,  run shellcheck with reviewdog on pull requests to improve code review experience,56.0,False,code review;code quality
+check favicon,delsinvg,this action checks whether the website has a favicon,0.0,False,code review
+phpcs code review,rtcamp,this will run phpcs on prs,85.0,False,code review;code quality
+code climate standalone,erzz,runs a detached version of codeclimate which reports only in the workflow and does not require the codeclimate service,3.0,False,code quality;code review
+auto assign action,kentaro-m,add reviewers to pull requests when pull requests are opened,92.0,False,code review;open source management
+clang-format (w/ diff),egor-tensin,clang format all c c   files in the project  and show the diff,0.0,False,code quality;code review
+run eslint with reviewdog,reviewdog,  run eslint with reviewdog on pull requests to improve code review experience,108.0,False,code review;code quality
+jekyll deploy test,paulrosenthal,this action validates whether a jekyll website deploys successfully,0.0,False,continuous integration;code review
+run golangci-lint with reviewdog,reviewdog,  run golangci lint with reviewdog on pull requests to improve code review experience,112.0,False,code review;code quality
+pull request target branch action,vankka,a action to check that a pr s target branch is correct  commenting and or changing it if required,1.0,False,code review
+typos-action,crate-ci,run typos to check spelling in github actions,259.0,False,code quality;code review
+common lint reporter,meilcli,common lint reporter that can handle various lint report files,0.0,False,code review;reporting
+check php syntax errors,overtrue,find php syntax errors,699.0,False,code review;code quality
+assign reviewers to pr,itsoliverbott,github action to assign pr reviewers,2.0,False,code review
+codecov,codecov,github action that uploads coverage reports for your repository to codecov io,725.0,True,code quality;code review
+resharper cli inspectcode,muno92,inspect code with resharper command line tool and annotate pr,0.0,False,code quality;code review
+wemake-python-styleguide,wemake-services,runs wemake python styleguide as a github action,1500.0,False,code quality;code review
+lgtm-image-action,lazy-actions,post lgtm image when reviewer approves pull request,1.0,False,code review;chat
+super-linter,github,it is a simple combination of various linters  written in bash  to help validate your source code,6800.0,False,code quality;code review
+open github issue | testing,tbarous,opens a github issue,0.0,False,reporting;code review
+merge pull requests (automerge-action),pascalgn,automatically merge pull requests that are ready,494.0,False,code review;continuous integration
+kubernetes security config watch,sysdiglabs,run security privilege comparison against kubernetes workloads when a pr is open,18.0,True,security;code review
+sysdig cis dockerfile benchmark,sysdiglabs,run cis dockerfile benchmark against dockerfiles in repository  cis 4 1  4 2  4 3  4 6  4 7  4 9  4 10 ,6.0,True,code review;security
+nightfall dlp action,nightfallai,scan pull requests for sensitive information  like credentials   secrets  pii  credit card numbers  and more,35.0,True,security;code review
+mobsfscan,mobsf,mobsfscan is a sast that can find insecure code patterns in your android and ios source code,78.0,True,code review;code scanning ready
+release-notes-preview,snyk,presents a preview of expected release notes should the pr get merged  based on semantic release,42.0,True,code review;utilities

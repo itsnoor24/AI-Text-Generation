@@ -1,0 +1,686 @@
+description
+review openapi spec diffs and docs in your prs
+a neat summary of the changes you made to your graphql schema
+test api compatibility of changes in your go library
+auto assign reviewer or assignee to pull request when open public apis were changed in swift files
+var  various automated reviews  is a deadly simple task runner based on npm scripts
+github action using vro package diff python package to compare two vmware vrealize orchestrator packages
+guards branches from merges when
+lint k8s manifest files
+github action to statically validate fastlane supply metadata for android against the play store listing constraints
+track localization progress  detect missing strings and generate summaries for xaml resource dictionaries
+checks that the body or the added code contains a word
+add pivotal story details to pull requests
+send review requests to users   teams
+  verify new function generates a segment for newrelic with reviewdog on pull requests to improve code review experience
+run script that auto assigns a team as a pr reviewer
+set pr label based on pr title s pattern
+commits  pushes a new pr branch and creates pr for the commits
+use to add an issue link related to your pull requests
+add jira issue details to your github pull request
+this github action will require a minimum number of reviews if a label is present
+update github pr with clubhouse information
+last authors written to codeowners
+label a pull request using jira issue properties
+check commit author s email domain
+github action to print relevant stats about pull request reviewers
+label pull requests based on configurable rules
+automatically merge pull requests once they are approved and required status checks are passing 
+when a reviewer is assigned on github  creates a review subtask on an asana task specified in a pull request description
+a github action to concat a message to  pull request original body
+an action to perform the required checks for complex pull request approval cases
+a github action list artifacts gerenated on a pull request
+automatically adds jira tickets by scanning the branch name and adding them as a comment to the pr
+does what it says on the tin  create a pull request  easy and simple
+assign a milestone to pull requests
+adds a pr link to an asana ticket and vice versa
+a github action that verifies a pull request contains a reference to an issue
+add a pull request to the first project on the repo
+an action for automatically label swapping for draft pull requests
+merge pull requests when certain conditions are met
+add labels depending if the pull request is ready to review
+label pull requests with custom label on merge
+provide guidance on what labels can should be applied to pull requests
+add jira issue details to your github pull request
+runs prometheus alertmanager amtool check config subcommmand via github actions
+add pr label based on number of files changed
+add milestone to prs
+automatically merge pr once it is ready
+removing the duplicate line in the given folder and uploads them to arifacts
+label a pull request based on pushed files
+manipulate changelog files that follows keepachangelog com format
+automatically tweets prs  commits or repos asking for code reviews
+assign labels based on pull request change sizes
+github action to run selene  a blazing fast modern lua linter written in rust
+check new or removed tests on each pull requests  list all tests before running them
+add reviewers to pull requests for each day of the week
+this action checks issue and pr descriptions against an regular expression
+automatically label your prs based on their branches
+check that the feedback lives up to certain requirements
+validate homey application against publish level
+simply check json syntax
+remove labels to an issue or a pull request
+run lighthouse ci on actions
+a github action to comment jest coverage diff on a pr
+a github action that posts a qr code to a pull request comment
+an easy to use command to help developer eliminate trailing whitespace on the fly
+blocks prs that are wip
+write a comment in the pr if your branch is not following a predefined pattern
+creates outputs variables of files modified  added  or removed by a pr or push
+check missing dangling meta files
+checks pr size  adds comment and or fails build if pr is too big
+add a comment to a pull request
+checks all python argparse args are present tense
+a github action for checking if yaml files comply with specified schema
+proofread any text with textlint  loading any required rulesets on the fly
+collect logged metadata and store it in barcelona
+checks for required pr label  adds comment and fails pr checks if none of the required labels are provided
+automatically assign reviewers to pull requests
+automatically assigns owner on pr
+this action can update jira issue status by event
+detects changes and validates a given changelog
+a github action to automatically close all pull requests
+run eslint remote tester in comparison mode for pull requests
+xcode logs formatter for github actions
+report test results to blinka
+comments a pull request with code coverage
+this action can update jira issue status by event
+check all dependencies are used in the code
+annotates violations from pmd analyzer
+update pr body because pr comments are annoying   
+lint your project against a specified ren py sdk version
+validate kustomize yaml files by  kustomize build  command
+enforce rules on certain cells and metadata in jupyter notebooks
+checks given tags are applied to taggable resources
+github action for asyncapi schema validation
+add a team label based on the author s team
+runs mql program
+github action  validate json
+a github action for approving pull requests
+tests elasticsearch ingest pipelines against given testcases
+find regexps from changed files in pull requests and link to tester
+auto create a pull request when a new branch is  pushed 
+synchronize the list of reviewers with the list of assignees on a pr
+adds reviewer s  to a pull request
+run pre commit and optionally commit back to the pull request
+add reviewers to your pull request
+terraform customizable tool for defining your standards  styles  and naming conventions
+label a pr based on the amount of changes excluding from the counting some customed files
+automatically applies labels for the pull request states
+check commit message compliance with conventional commits
+automatically approve pull requests
+use this instead of the branch protection rules
+validate image value in helm chart to override correctly or not  work with decapod base yaml
+generate readable hasura metadata change summaries
+merges branch to target branch or creates new branch and follow up pr for conflict resolving
+lint commit messages using commit watch
+upload image s  to imgur using their api
+sample github action to label a pr based on the amount of changes written in go
+github action for kustomize   manily to perform kustomize build for the k8s config yamls
+github action  validate json
+visual snapshot tester for github actions
+github action to automatically rebase prs
+github action for enforcing regex matching name on pr
+validate yaml files in a repo according to settings
+label a pr based on the amount of changes
+helps squashing commits in prs
+automatically revert a commit on   revert  comment
+automatically rebases pr on   rebase  comment
+powerful pull request automation   auto labels  comment   review automation  rule based auto merge
+automatically send notification for pull requests waiting for reviewers
+cheery picks merged prs to selected branches
+automated docs reviewer  robotic grammar enthusiast
+github action for cfn nag
+a github action that get commits in current pull request
+runs tfsec and adds comments to the pr where checks have failed
+a github action to run brakeman  a static analysis security vulnerability scanner for ruby on rails applications
+run static code pattern analysis scan for apex security using pmd
+github action for cfn nag
+use yelp s detect secrets package to scan your repository for exposed secrets
+require all commits to be approved in your pr without wiping past approvals
+run cfn guard compliance tool against your repository
+njsscan finds insecure code patterns in your node js applications
+github action to find common security issues in python code and get its report as a artifact
+run bandit  latest  on py3
+action to gittyleaks tool prevent to secrets on your repo before merge
+check if the links pass google safe web
+github action examines c c   source code and reports possible security weaknesses   flaws   sorted by risk level
+run horusec sast in your code
+  run detect secrets with reviewdog on pull requests to improve code review experience
+run slither static analyser for solidity smart contracts
+action to register organization workflow
+polaris sast runner
+check for critical files in your commits and warns you
+github action to run brakeman static analysis which checks ruby on rails applications for security vulnerabilities
+run gosec and scan your golang code  on specific events like push or pull request
+aws codeguru reviewer action
+run kiuwan delivery analysis on the selected set of code
+sast scan is a free and open source static analysis security testing  sast  tool for a range of languages
+scan your terraform code with tfsec
+scan commits for secrets and other issues
+comment changes in public interfaces on github pull requests
+add need review attention label to an open pull request after 4 days
+monorepo pr repo labeler
+add a message in pull request with basic information when new dependencies are added
+look for a  trigger word  in a pull request description or comment  so that later steps can know whether or not to run
+leaves a comment on an open pr based on the contents of a file
+this action checks if there is a pull request in the repo with the same title
+universal lock file scanner for git
+creates a comment inside pull request with the human readable summary of the changes to the  yarn lock  file
+notify your teams channel with a beautiful  comprehensive deployment card
+github action for running bundler leak
+a github action to test the deployment status of a heroku review app
+export approved state to environment variables
+composer require checker
+a set of github actions to enable fast shopify theme development workflows
+this action can be used to post the address of a kubernetes loadbalancer on a pull request
+append the provided deployment url to github pull request description
+github action generates code coverage reports
+github action for automatically adding sentry id on pull requests title
+runs danger swift with swiftlint
+github action that creates a changelog on opening or updating the pr
+github action for auto assigning author of pr as the assignee
+this is an action to check if the page has a title or description
+this action checks whether a multilingual website has a hreflang tag
+this action checks whether the website has a robots txt
+  run misspell with reviewdog on pull requests to improve code review experience
+get pull request reviews count by state kind
+flake8 with annotations for pull request
+submit a comment to prs with a qa checklist based on context
+  run staticcheck with reviewdog on pull requests to improve code review experience
+github action generates code coverage reports
+runs luacheck on a project with fivem natives
+find files that were modified during workflow execution
+use clang format to see if your c c   code is formatted according to project guidelines
+  run ansible lint with reviewdog on pull requests to improve code review experience
+run pyright
+report the code coverage from lcov files
+github action automatically formatting all hcl and tf files
+checks for accidental dump in twig files
+runs rubocop on your prs   
+  run php static analyzer with reviewdog
+  run pyright on pull requests and get reviews with reviewdog
+a github action that verifies commits in pull request all include developer certificate of origin  dco  information
+lints your glua files and checks them for errors
+run a generate in ispw
+check tsc errors and compare errors wih base branch
+  run codenarc with reviewdog on pull requests to improve code review experience
+comments a pull request with code coverage report
+lint all your toml files
+congratulate short contribuitions to your repositories
+run  dprint check  on your source code
+check changed files for compliance
+run pylint commands
+run pytest commands
+checks if helm templates are valid
+run rustfmt and annotate the diff with expected codes
+check if any uncommitted changes are found on the current state of your repo
+  run checkstyle with reviewdog on pull requests to improve code review experience
+  run php codesniffer with reviewdog
+run eslint in parallel of ci build
+run phpunit test suite using laravel framework
+  github action to automate pull requests
+report your webpack build stats to the packtracker io service
+github action to run flake8 linter on your pull requests and add annotations on errors
+lint your ruby code with standard in parallel to your builds
+compile your typescript code and check for errors
+lints javascript typescript code
+a github action that lints your haml code with haml lint
+  run credo with reviewdog on pull requests to improve code review experience
+this github action submits textlint review comments if there are violations
+dynamically label pull requests affecting packages in a monorepo   workspace
+creates on demand chatrooms for pull requests
+automatically runs the autopep8 command on all your changes
+comments a pull request with the jest code coverage
+check if changed files are properly formatted by the provided eslint rules
+lint python projects with flake8 and create pull request reviews with linting violations
+automated godoc generator   publisher
+extract pull request metadata
+ensure your pr title matches the conventional commits spec  https   www conventionalcommits org  
+  run reek with reviewdog on pull requests to improve code review experience
+run ktlint in your repository
+php insights app integration with github actions
+cloudformation lint action using cfn lint
+phpcs checker with auto annotations out of the box
+add labels to pull request based on matched file patterns
+automatically label prs based on codeowners
+lint nim with reviewdog on pull requests to improve code review experience
+greet someone and record the time
+list and put output pull requests
+the silent but animated protector of pull requests  automatically label pull requests without gifs
+rebase prs by entering    rebase   as a comment
+github action for finding forgotten variable dump in php projects
+static analysis tool for php
+assign a reviewer based on assignee
+to check the repo if there is a magic number usage
+checks codes of participants of the coding competetion
+  run vimlint with reviewdog on pull requests to improve code review experience
+shows php lint errors as annotation  with file and code line  in github actions
+shows xmllint errors as annotation  with file and code line  in github actions
+checks for wip patterns in titles
+check commit from file
+type checking typescript code
+run yapf to check that your python code if correctly formatted
+turn resharper code inspections into github pr annotations
+validate iglu json schemas for syntax errors
+check if this pull request can be conflict after other pull requests merged
+find out how much of a change to your asset size a pr will have
+github action for rubocop
+take screenshots of updated static web pages
+run pyspelling on a repository to find spelling mistakes
+comments dynamic message on your pull requests
+a github action that shames prs that are open longer than a week
+merge base branch into pull request by command
+approve the pr for you when the owner thinks lgtm
+check for  include guards in c c   header files
+create and or delete branch protection rules based on a supplied branch pattern
+take css and get the changes per css analytics metric
+github action to prevent the user from writing bad git commit message
+perform style checking on your python 3 using flake8 and formate code using black
+analyze code statically using misspell in github actions
+runs php codesniffer on files changed in current pr or even only on lines by author of pr
+analyze code statically using querly in github actions
+analyze code statically using goodcheck in github actions
+analyze code statically using jshint in github actions
+analyze code statically using coffeelint in github actions
+analyze code statically using stylelint in github actions
+analyze code statically using eslint in github actions
+generate couscous io docs
+runs code validation via flake8 for python code within jupyter notebooks
+automatically approve dependabot pull requests
+your all in one pronto ruby code review automation  forked by chargify to leverage newest rubocop
+shows gnu sort errors as annotation  with file and code line  in github actions
+automate your pull request review
+sonarqube is an automatic code review tool to detect bugs  vulnerabilities and code smells in your code
+validate an ebuild repository using repoman
+bounce pull requests that are too big
+php codesniffer by pipeline components
+comment on a pull request
+compiles mql programs
+run sonar scanner analysis on a dotnet core solution and collect opencover reports
+  run coffeelint with reviewdog on pull requests to improve code review experience
+this github action is slack notice to reviewer when pull request review requested
+  run alex with reviewdog on pull requests to improve code review experience
+analyze code and create a dynamic checklist  by commenting on pr
+python linting and format checking using black  safety and flake8
+a github action that lets you easily run erb linting for ruby on rails
+action to run lcov
+an action to check if my pr branches is allowed to merge
+check provided token has given permission to repos
+scan your code with sonarqube scanner to detect bugs  vulnerabilities and code smells in more than 25 programming languages
+if there is not a changelog in the pr add a comment to remind the committer
+github action that uploads test coverage reports to deepsource for the test coverage analyzer
+report broken links found in a given set of files
+automatically identify anti patterns in sql queries using sqlcheck
+automatically adds you to the assignees in the pull request
+validate a pull request title against a conventional commits preset
+check imports order of your code using goimports
+label a pull request based on number of lines modified
+check your pull requests against cppcheck  flawfinder and clang
+send alert notification to pagerduty on pull request
+a github action that ensures pull requests follow a specific format
+a github action that verifies wheather commits have bodys
+scans commit messages for meeps and submits them
+a github action to create pull request status
+get compressed size differences for every pr
+run vulture to analyse dead code in python projects
+give a thumbs up upon approving a pr
+sends a comment notifcation regarding code coverage in pul requests
+warn if changes introduce conflict markers or whitespace errors
+detect unused dependencies in a rust project
+use elm review to check code quality
+performs static analysis  linting  formatting  to compute the pub score of your dart flutter package
+check the commit message in pr against a regex pattern
+send test coverage data to coveralls io for analysis  change tracking  and notifications
+lints pull request commit messages with commitlint
+this action builds and deploys your aws amplify pull request preview for public repository
+a github action that lints your ruby or ruby on rails code with rubocop
+this action allows to use pmd source code analyzer from github actions and fixes a small issue with permissions
+assign reviews to individuals or teams based on the pr s author or author team
+run basic checks and close   mark spam prs
+send reminders to requested reviewers of a pull request
+checks file sizes in a pull request and warns of large files
+automatically rebases pull requests that are out of date
+measures cohesion in your swift codebase
+  run semgrep with reviewdog on pull requests to improve code review experience
+validate your files begin with a specific banner for compliance reasons
+notify subscribed users and groups of changes
+github action that opens an issue when a in code refered issue pull request is closed
+lints files against the repository wide editorconfig settings
+github action to add reviewers  subscribers and assignees to your pr
+add labels to approved pull requests
+greet someone and when someone makes a pull request
+runs luacheck
+  run ktlint with reviewdog on pull requests to enforce best practices
+runs qhub commands via github actions
+github action for enforcing description on pull requests
+  run vimlint with reviewdog on pull requests to improve code review experience
+scan your code with sonarqube scanner to detect bugs  vulnerabilities and code smells in more than 25 programming languages
+inhibit commits with bad messages from getting merged
+a github action to comments a pytest coverage on pr
+reads all testplans from  xcode project and comments on github
+lint markdown files with hallmark
+sound analysis of c code with the open source platform frama c  exhaustively list possible runtime errors
+lint commits on a pull request
+uses jsperformobot to check for performance improvements
+opens a github issue
+runs eslint against changed files with customization  issue commenting  and more
+check if solution is following helix rules
+adds code reviewer as pull request assignee
+checks html5 syntax using an experimental branch of html5validator
+check django app migrations dependency tree
+executes migration toolkit for applications  mta  and analyze your code for migrations
+runs c   style check with uncrustify
+adds a link to the current diff on your modelix instance to every pull request
+this will run phpcs on prs
+check that a pr title starts with a jira issue key
+installs a specific version of detekt into the github actions tool cache
+use shellcheck without having to install it
+run  mapbox geojsonhint on geojson files in pull requests
+a github action for requesting review
+automatically labels your prs based on the base ref branch you are merging into
+check that a pr which is out of draft status has labels
+check that a pr which is out of draft status has been assigned
+run izuna
+runs dotenv linter as a github action
+  run remark lint with reviewdog on pull requests to improve code review experience
+parse and validate github actions workflows
+github action to compare flow coverage on a pr to the base branch
+run phpcs
+github action that will run tflint on terraform files
+supports a plethora of tools for checking your python code and packages
+extact code coverage percentage from an opencover report and generates metadata for a shields io badge
+gets the review from pr and parse it
+looking for secrets in current commit  it can create a report in junit format
+a github action that uses information from your build to generate accessible project statistics
+checks that no new rubocop offenses are added when using  rubocop todo yml
+"run pronto code review runners on your commits and pull requests
+and get feedback as inline code annotations "
+checks pr body and diff for word occurrences
+perlcritic by gugod
+lint ansible roles playbooks with ansible later
+scan code using sonarqube and show issues in pull requests
+sends velociraptors if  goto  statements are added  xkcd com 292
+a github action that lints your ruby code with brakeman
+lint src data
+generate useful metrics for c  c    and java code
+close prs whose body text don t match with given patterns
+re run a workflow once or continuously until it succeeds by applying  or removing  labels to a pull request 
+use github actions to notify slack that a pull request has been opened
+add fun chatter to your pull requests
+"detect all changes in a branch  this is done by detecting the fork point of the current branch with the
+repo s base branch "
+  run remark lint with reviewdog on pull requests for documentation projects
+ensure your pr title matches the conventional commits spec  https   www conventionalcommits org  
+php cpd
+sonarqube scanner with heap memory options detect bugs  vulnerabilities and code smells in more than 25 programming languages
+basic report added to the pull request as a comment with summary and detailed failures table using github actions
+verify the changelog has been updated
+automatically trigger a call to sonnar scanner
+github action to check for file existence
+calculate the difference between the two coverage reports
+perlcritic by gugod
+  run detekt with reviewdog on pull requests to enforce best practices
+runs kyverno cli
+review code using sonarqube
+ensure all tasks are checked
+run java checkstyle in a command line context via github actions
+adds reviewer s  to a pull request
+  this action sets up reviewdog
+check if the pull request is ready to be merged in the main branch
+read a test coverage coverage summary json test report and comment stats on to pr
+a github action to check keys of json files
+quickly check links in markdown  html  and text files
+rust clippy  linter 
+github action that check if code is formatted correctly using clang format
+automatically requests review of a pull request based on files changes and or groups the author belongs to  
+find potential vulnerabilities in your c c   codes
+run ktlint in all added modified  kt files and make comments for any errors
+gathers statistics into interactable md files for code in a project
+analyze a dart code
+scan codebase for existence scan keyword
+create a pull request review based on warnings from clang tidy
+create comment on pull request with alex recommendations
+block merge of pull requests containing fixup commits  so you do not forget to squash autosquash
+automatically checks pull requests changes with clang tidy  clang format  and cppcheck and posts the comment with result
+spell check commits
+verify pull request size without sepecified file names
+php code style fixer  php cs fixer 
+greet someone and record the time
+it lints with eslint
+checks for presence of new relic standard open source files  new relic one catalog metadata  and package script commands
+ensure files changed
+automatically spin and maintain preview environments for your pull requests
+check 42 norm with norminette linter
+adds a comment to a pr that can differ depending on which files are being changed in that pr
+verify that the changelog file has been updated in the current pr
+prevent merge of pull request having unresolved review threads
+comments on the pull request with a report on the resulting change in memory usage of arduino sketches
+slack messages for your prs
+lint md service for github action
+  run black formatter with reviewdog on pull requests to improve code review experience
+invoke linters  detect errors warnings  show them as annotations  supports prs from forks  unlike other actions
+create comment on pull request  if exists update that comment
+blow up a channel with  s when adding people to review your pr
+lint and format verilog code
+lint commit messages
+an action to prevent merges on weekends  or whenever that a merge should not happend
+prevent merging pull requests that contain commit messages prefixed with fixup  or squash
+runs php codesniffer on files changed in current pr or even only on lines by author of pr
+check coverage and annotate uncovered code in pr
+updates the github action configuration   yml  files if necessary
+checks if the project version has been updated
+  run flake8 with reviewdog on pull requests to improve code review experience
+add review comments to a pull request
+automatically runs prettier on all your changes
+creates annotations from a json file
+auto assigns pull requests to users for a given week
+runs php codesniffer on files changed in current pr or even only on lines by author of pr
+checks that the added code in a pr doesn t contain a keyword
+automatically set assignees and reviewers in pull request
+check that a pr description is filled out
+check that pr comment contains  or not  a given text
+publish code coverage to code climate
+badger your team to pick up reviews
+check code formatting using gofmt
+scan your shell  bash scripts   python  groovy  etc  code with sonar scanner to detect bugs  vulnerabilities and code smells
+this github action will take the current git changes and apply them as github code review suggestions
+generate and update github s codeowners file based on the git fame of files
+github action that runs stylelint
+code review for pr using checkpatch pl
+run beautysh to beautify a bash shell scripts code
+outputs markdown content to pull requests
+review automatic  pull request  from selected branches or author
+automatically commits and push files which have been changed and pull request
+run danger
+reminds users to add a changelog if their pull request is missing one
+run tests   comment coverage on pull request
+runs linter on your prs
+prevent prs from being merged too quickly
+require labels to be added to a pull request before merging
+send review requests to teams  with auto assignment  or persons
+extracts codeowners information
+setup problem matchers for rubocop
+scan for open pull requests and send a slack update
+  run reek with reviewdog on pull requests to improve code review experience
+php static analysis in github actions for wordpress
+  suggest any code changes based on diff through github multi line code suggestions
+github action that updates a pull request with information extracted from branch name
+generate a locust summary of a git diff
+php code analyse on pull request and review comment via reviewdog
+  run php mess detector with reviewdog
+detects if a pr only contains whitespace  newlines or no changes
+  run phpcs for wordpress with reviewdog on pull requests to improve code review experience
+runs the golang magic number detector
+run php code analyse on pull request and review comment via reviewdog
+comments a pull request with the code coverage
+uploads coverage info to code climate
+a github action that check minimum coverage percentage
+check the commit message against a regex pattern
+action to send github mentions when there are pull requests pending for reviews
+action to send github mentions when there are pull requests that has exceeded the lifetime
+ensure python code quality  supports pylint  black  mypy and isort
+native  blazingly fast prettier cli on github actions
+this github action creates a pull request comment with a link to an azure devops work item
+checks if the content of 2 files are the same
+runs eslint checks and bails if there is a failure
+runs cloudformation guard
+runs phpcs checks with wpthemereview standards
+check commit messages according to an opinionated style
+for testing projects
+determines the difference in inventory variables between two git refs
+check for new packages and their sizes
+lints codeowners files
+github action that gives seal of approval to your pr
+create a work item in azure devops when a pull request is created
+  run phpcs with reviewdog on pull requests to improve code review experience
+run pylint on pr change files only
+checks a list of requirements for each polarity integration development
+add labels to new pull requests based on the files that are changed
+send google chat messages for some github actions
+comment on prs with jest coverage information
+pr review approval action
+automatically assigns reviewers based on changed files
+action for typescript check
+automatically label and mention notify users about stuck pull requests
+collaborator pull request review counter
+validate the ksp avc  version file of your mod against the avc schema
+  run detekt with reviewdog on pull requests to enforce best practices
+parses dart test json report and shows annotations in files
+verifies the config repository changes can be merged with gocd configuration
+run clippy and annotate the diff with errors and warnings
+  run dotenv linter with reviewdog on pull requests to improve code review experience
+check for new packages and their sizes
+  run codespell with reviewdog on pull requests to improve code review experience
+this action creates a string that mentions all the reviewers for a pull request
+jest junit github actions annotation reporter made easy
+  run pyflakes with reviewdog on pull requests to improve code review experience
+status check source code for foul language
+run phpcs  phpmd to check your code
+shows codespell errors as annotation  with file and code line  in github actions
+lint your code using golint
+analyze code statically in github actions
+  run nim check with reviewdog on pull requests to improve code review experience
+automatically close draft prs after a period of time
+  run haml lint with reviewdog on pull requests to improve code review experience
+github action to enforce conventions for pr branch name and commit messages
+  run d scanner with reviewdog on pull requests to improve code review experience
+analyze code statically using rails best practices in github actions
+analyze code statically using reek in github actions
+analyze code statically using rubocop in github actions
+analyze code statically using brakeman in github actions
+creates annotations from dartanalyzer outputs
+automatically closes any open pull request
+an action that runs the inspectcode cli utility from jetbrains
+a github action that runs twigcs on a repository
+phpstan run
+write a comment on a pull request
+cancel stale workflow runs for the current pull request
+this action will automatically assigns reviewers based on pull request issuer
+documentation generation for ros projects
+post a reply to comments in prs if file to which the comment was left has been changed
+approved by all reviewers
+comments pull requests with spectral linter outputs
+greets people
+github action for promtool   quickly check whether a rule file is syntactically correct
+a github action to replace pull request variables inside the pull request body
+google chat notification for github actions
+annotate prs with flake8 errors and warnings from github checks output
+opens a github issue
+notifies you when a pull request is ready for review  accepted or rejected
+posts a meme if someone approves merges their own pr
+setup container structure test in your github workflows
+check commits against defined rules
+run php codesniffer with reviewdog
+sonar scanner on github actions
+run rubocop against the diff of your pr base
+pylint github action running on python slim docker image
+a github action that lets you easily run attractor  a code quality exploration tool especially for ruby on rails
+runs prometheus promtool commands via github actions
+review summay to output
+a github action that lints your ruby code with brakeman
+a github action that lints your ruby code with standardrb
+github action to create custom status
+  run stylelint with reviewdog on pull requests to improve code review experience
+automatically builds   merges after approval and optional label
+analyze php code with one command
+publish code analysis results as diff annotations
+run flake8 commands
+linty support an iterative process to clear out lints from go code
+run hlint on your haskell code base
+auto label pull requests that have a specified number of approvals
+automatically create review requests based on assignees
+comment on github pr with related issues in your issue trackers
+github action to run stylua  an opinionated lua code formatter
+generate coverage badge using istanbul s json  summary
+add voting to your pull requests
+create github checks  with annotations for prs  from json file outputs of custom code check scripts
+runs cppcheck and clang tidy on cmake based project  the result will be added as pr comment
+fail a pull request workflow if certain files are changed
+github action that diffs composer lock between current branch and default branch
+github action to automatically merge pull requests when some conditions are met
+github action that will create a new commit and push it back to the repository
+run eslint on javascript files
+check pr total lines changed
+add a message in pull request with basic information when new gems are added
+a github action to run your django tests
+an action that check the code format is compliant with a certain configuration
+  run checkstyle analysis on java code and report results directly to pull request with the help of reviewdog
+github action of pronto
+opa pull request assessor  automatically check your structured configuration data using open policy agent
+a github action to perform dart code metrics checks automatically
+  run vint with reviewdog on pull requests to improve code review experience
+  run brakeman with reviewdog on pull requests to improve code review experience
+indexes a repo to the rich code nav cloud service
+parse and report gradle lint issues to pr
+checks html5 syntax using html5validator
+github action to add react native bundle size as status check
+uses pandoc to lint and optionally format markdown to a standard format
+this action can be used to run detekt checks to enforce best practices
+a github action tests if the pr contains any label or keyword in the title intended to prevent premature merging of the pr
+run committed to check commit history
+run psalm via github actions
+run java checkstyle with reviewdog
+  run hadolint with reviewdog on pull requests to lint dockerfile and validate inline bash
+static code analysis checker for golang
+execute codacy code analysis using your remote codacy configuration
+automatically labels your prs based on base branch name patterns like feature   or fix  
+runs pmd source code analyser based on the ruleset defined   https   pmd github io 
+lint pull requests with the conventional commit spec  for a clean and conventional commit history
+run pytype to static type check your code
+policy enforcement for your pipelines  jira enabled  poc
+pr lint for github actions   poc
+enforce branches
+troubleshoot to execute codacy code analysis using your remote codacy configuration
+add reviewers or assignies to pull requests
+  run tflint with reviewdog on pull requests to enforce best practices
+github action to enforce pull request title conventions
+  run rubocop with reviewdog on pull requests to improve code review experience
+run shellcheck and or shfmt on all shell script files and include commentaries  there is a exclude parameter
+this action checks whether the website is user friendly for a mobile device
+  run shellcheck with reviewdog on pull requests to improve code review experience
+this action checks whether the website has a favicon
+this will run phpcs on prs
+runs a detached version of codeclimate which reports only in the workflow and does not require the codeclimate service
+add reviewers to pull requests when pull requests are opened
+clang format all c c   files in the project  and show the diff
+  run eslint with reviewdog on pull requests to improve code review experience
+this action validates whether a jekyll website deploys successfully
+  run golangci lint with reviewdog on pull requests to improve code review experience
+a action to check that a pr s target branch is correct  commenting and or changing it if required
+run typos to check spelling in github actions
+common lint reporter that can handle various lint report files
+find php syntax errors
+github action to assign pr reviewers
+github action that uploads coverage reports for your repository to codecov io
+inspect code with resharper command line tool and annotate pr
+runs wemake python styleguide as a github action
+post lgtm image when reviewer approves pull request
+it is a simple combination of various linters  written in bash  to help validate your source code
+opens a github issue
+automatically merge pull requests that are ready
+run security privilege comparison against kubernetes workloads when a pr is open
+run cis dockerfile benchmark against dockerfiles in repository  cis 4 1  4 2  4 3  4 6  4 7  4 9  4 10 
+scan pull requests for sensitive information  like credentials   secrets  pii  credit card numbers  and more
+mobsfscan is a sast that can find insecure code patterns in your android and ios source code
+presents a preview of expected release notes should the pr get merged  based on semantic release
